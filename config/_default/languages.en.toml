@@ -16,9 +16,9 @@ title = "Jundi Mubarok"
 
 [params.author]
    name = "Jundi"
-   email = "jundimubarok74@gmail.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
+   # email = "jundimubarok74@gmail.com"
+   image = "img/author-baru.jpg"
+   imageQuality = 40
    headline = "I'm only human"
    bio = "Write Stories Share Inspiration"
    links = [
