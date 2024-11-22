@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kontrakan on Jundi Mubarok</title>
+    <link>http://localhost:1313/tags/kontrakan/</link>
+    <description>Recent content in Kontrakan on Jundi Mubarok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>⚡by [Blowfish](https://blowfish.page). My opinions are my own</copyright>
+    <lastBuildDate>Mon, 21 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kontrakan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kontrakan Saat Ini. Dingin!</title>
+      <link>http://localhost:1313/posts/kontrakan-saat-ini/</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kontrakan-saat-ini/</guid>
+      <description>Hampir empat bulan saya tinggal di kontrakan yang letaknya tidak begitu jauh dari pos pendakian gunung ciremai. Dingin yang menusuk ke tulang saat melewati area wisata J&amp;amp;J</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kontrakan-saat-ini/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Kontrakan Pindah, Tantangan Baru</title>
+      <link>http://localhost:1313/posts/kontrakan-pindah-tantangan-baru/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kontrakan-pindah-tantangan-baru/</guid>
+      <description>7 bulan lalu, awal mengontrak di bojong, tempatnya cukup strategis dan lokasinya cukup dekat dengan Alfamart karena saya sering kesana untuk kebutuhan top up, tarik saldo dan lain-lain.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kontrakan-pindah-tantangan-baru/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

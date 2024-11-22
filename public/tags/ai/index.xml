@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ai on Jundi Mubarok</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in Ai on Jundi Mubarok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>⚡by [Blowfish](https://blowfish.page). My opinions are my own</copyright>
+    <lastBuildDate>Thu, 06 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Satu Aplikasi Banyak Manfaat, Rytr.me</title>
+      <link>http://localhost:1313/posts/ai-writer-terbaik-rytr-me/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/ai-writer-terbaik-rytr-me/</guid>
+      <description>AI Writer terbaik dari banyaknya aplikasi yang ada di internet untuk generator konten dan asisten menulis, aplikasi ini memiliki fitur yang berlimpah, tidak ada salahnya kamu mencoba.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ai-writer-terbaik-rytr-me/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Chat GPT Besutan Open AI Yang Membuat Kita Malas Berpikir</title>
+      <link>http://localhost:1313/posts/apa-itu-chat-gpt/</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/apa-itu-chat-gpt/</guid>
+      <description>Salah satu AI, yaitu &lt;strong&gt;Chat GPT&lt;/strong&gt; yang saat ini sedang viral memiliki kemampuan bisa menjawab pertanyaan umum bahkan spesifik, kamu pasti akan takjub ketika pertama kali mencobanya.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/apa-itu-chat-gpt/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
