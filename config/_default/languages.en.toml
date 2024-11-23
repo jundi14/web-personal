@@ -17,9 +17,9 @@ title = "Jundi Mubarok"
 [params.author]
    name = "Jundi"
    # email = "jundimubarok74@gmail.com"
-   image = "img/author-baru.jpg"
+   image = "/img/profile-photo.jpg"
    imageQuality = 40
-   headline = "I'm only human"
+   headline = "Certified Writer by **CIW**"
    bio = "Write Stories Share Inspiration"
    links = [
       { instagram = "https://instagram.com/jundi.mubarok" },
