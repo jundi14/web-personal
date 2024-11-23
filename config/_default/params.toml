@@ -14,7 +14,7 @@ replyByEmail = false
 # mainSections = ["section1", "section2"]
 # robots = ""
 disableImageOptimization = false
-disableTextInHeader = false
+disableTextInHeader = true
 backgroundImageWidth = 1000
 
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
