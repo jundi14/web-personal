@@ -1,14 +1,15 @@
 ---
 title: Mengapa Minyak Goreng Mahal?
 slug: mengapa minyak goreng mahal
-description: Minyak goreng adalah kebutuhan pokok bagi sebagian besar rakyat indonesia,
+description:
+  Minyak goreng adalah kebutuhan pokok bagi sebagian besar rakyat indonesia,
   tetapi mengapa minyak sangat mahal padahal negeri ini mempunyai kebun sawit terbesar
 summary: Berpekan-pekan krisis minyak goreng melanda Indonesia sehingga memukul rumah tangga dan para pengusaha kecil. Banyak yang mengantri dan berebut mendapatkan minyak goreng.
-categories: 'Coretan '
+categories: Coretan
 date: 2022-04-09
 showComments: true
-
 ---
+
 Sudah berpekan-pekan krisis minyak goreng melanda Tanah Air sehingga memukul rumah tangga dan para pengusaha kecil menengah. Banyak yang mengantri dan berebut mendapatkan minyak goreng. Harganya pun melambung tinggi. Antrian ini juga sudah menelan korban. Seorang ibu rumah tangga meninggal saat mengantri minyak goreng.
 
 Warga bukan saja menghadapi krisis kelangkaan minyak goreng. Sejumlah harga kebutuhan pokok juga ikut merangkak naik. Presiden Jokowi menyerukan masyarakat untuk mewaspadai kelangkaan sejumlah komoditas seperti pangan dan energi.
@@ -21,7 +22,7 @@ Dari data yang diperoleh, sejak tahun 2006, Indonesia menduduki peringkat pertam
 
 Merujuk catatan Kementerian Perindustrian, realisasi produksi minyak goreng sawit (MGS) tahun 2021 mencapai 20,22 juta ton, sedangkan kebutuhan dalam negeri hanya sebesar 5,07 juta ton. Lalu mengapa krisis ini terjadi?
 
-Ada dua penyebab utama. 
+Ada dua penyebab utama.
 
 ### Pertama: Kuat Dugaan Telah Terjadi Kartel
 
@@ -69,7 +70,7 @@ Dalam Islam, Negara tidak boleh kalah oleh para pemilik kartel ini. Negara harus
 
 Khalifah Umar memberlakukan larangan praktik monopoli di pasar-pasar milik kaum Muslim. Khalifah Umar pernah bertanya kepada Hathib bin Abi Balta’ah, “Bagaimana cara engkau menjual barang, Hathib?” Ia menjawab, “Dengan utang.” Khalifah Umar lalu berkata, “Kalian berjualan di pintu halaman dan pasar milik kami, tetapi kalian mencekik leher kami. Kemudian kalian menjual barang dengan harga sesuka hati kalian. Juallah satu shâ’. Bila tidak, janganlah engkau berjualan di pasar-pasar milik kami atau pergilah kalian ke daerah lain dan imporlah barang dagangan dari sana. Lalu juallah dengan harga sekehendak kalian!” (Rawwas Qal‘ahji, Mawsû’ah Fiqh Umar bin al-Khaththâb, hlm. 28).
 
-Khalifah Umar tidak hanya membatasi praktik monopoli terhadap barang-barang kebutuhan pokok dan hewan, tetapi bersifat umum terhadap setiap barang yang mendatangkan madarat (kerugian) bagi orang-orang jika barang itu tidak ada di pasaran. 
+Khalifah Umar tidak hanya membatasi praktik monopoli terhadap barang-barang kebutuhan pokok dan hewan, tetapi bersifat umum terhadap setiap barang yang mendatangkan madarat (kerugian) bagi orang-orang jika barang itu tidak ada di pasaran.
 
 Imam Malik meriwayatkan dalam Al-Muwaththa’, bahwa Khalifah Umar bin al-Khaththab pernah mengatakan, “Tidak boleh ada praktik monopoli di pasar-pasar milik kami.” (Rawwas Qal’ahji, Mawsû’ah Fiqh Umar bin al-Khaththâb, hlm. 29).
 
@@ -85,7 +86,7 @@ Tidak boleh ada bahaya dan yang membahayakan orang lain (HR Ibnu Majah dan ad-Da
 
 Wahai kaum Muslim! Apa yang menimpa umat hari ini adalah akibat sistem Kapitalisme yang batil dan tidak adanya perlindungan dari negara. Akibatnya, setiap hari terlihat pemandangan antrian rakyat terzalimi hanya untuk mendapatkan minyak goreng. Ingatlah, tanpa syariah Islam, keadaan ini akan terus terjadi.
 
-\---*---
+\---\*---
 
 Hikmah:
 

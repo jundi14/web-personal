@@ -1,17 +1,18 @@
 ---
 title: Memori Lama Pengalaman Masa Kecil Yang Teringat Kembali
 slug: pengalaman masa kecil
-description: Ngomong ngomong tentang pengalaman masa kecil nih, ada beberapa cerita
+description:
+  Ngomong ngomong tentang pengalaman masa kecil nih, ada beberapa cerita
   menarik yang bikin kamu ingat masa kecilmu dulu.
 summary: Masa kecil banyak pengalaman menarik dan seru. Di kamus semasa kecil nggak ada kata “baperan” iya gak sih? Main dan bertengkar hampir tiap hari. Kelahiran 90-an pasti merasakan.
-categories: 'Coretan '
+categories: Coretan
 date: 2021-11-27
 tags:
-- masa kecil
+  - masa kecil
 aliases: Memori Lama, Pengalaman Masa Kecil Yang Teringat Kembali
 showComments: true
-
 ---
+
 Teringat masa kecil banyak pengalaman menarik dan seru.
 
 Dalam kamus semasa kecil nggak ada kata “baperan” iya gak sih?

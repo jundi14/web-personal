@@ -1,16 +1,16 @@
 ---
 title: 7 Cara Mudah Mengatasi Laptop Yang Lambat, Dijamin Berhasil !
 slug: mengatasi laptop lemot
-description: 
+description:
 summary: Laptop semakin banyak digunakan dalam berbagai kegiatan seperti belajar online maupun pekerjaan lainnya. Laptop memiliki bentuk yang ringkas sehingga mudah dibawa kemana-mana.
-categories: 'Teknologi '
+categories: Teknologi
 date: 2021-11-24
-tags: 
-aliases: "/posts/teknologi/mengatasi-laptop-lemot/"
+tags:
+aliases: '/posts/teknologi/mengatasi-laptop-lemot/'
 showComments: true
 showTableOfContents: true
-
 ---
+
 Zaman sekarang penggunaan laptop semakin banyak digunakan dalam berbagai kegiatan seperti belajar online maupun pekerjaan.
 
 Laptop memiliki bentuk yang mudah dibawa kemana-mana sehingga memudahkan penggunanya untuk bekerja di berbagai tempat.
@@ -71,10 +71,10 @@ Caranya, klik menu start lalu ketikan performance lalu pilih “Adjust the apper
 
 Lalu pilihlah “Adjust for best performance” untuk menghilangkan semua yang terceklis, lalu pilihlah 4 opsi ini saja, yaitu:
 
-* Animate controls and elements inside windows (Opsioanal)
-* **Show Thumbnails instead of icons**
-* Show window contents while dragging (Opsional), fungsinya adalah untuk memperlihatkan konten jendela pada saat jendela di drag/geser.
-* **Smooth edges of screen fonts**
+- Animate controls and elements inside windows (Opsioanal)
+- **Show Thumbnails instead of icons**
+- Show window contents while dragging (Opsional), fungsinya adalah untuk memperlihatkan konten jendela pada saat jendela di drag/geser.
+- **Smooth edges of screen fonts**
 
   ![](/img/visual-effect.png)
 
@@ -94,20 +94,24 @@ Lalu hilangkan semua centang sampai kebawah, dan ini sifatnya opsional saja.
 
 ## Mengurangi kerja system di background
 
-* Buka menu privasi pada setting lalu pada menu general nonaktifkan semuanya.
+- Buka menu privasi pada setting lalu pada menu general nonaktifkan semuanya.
 
   ![](/img/general-privacy-setting.png)
-* Lalu pada menu speech nonaktifkan saja jika memang dirasa tidak perlu, karena salah satu fungsi online speech recognition yaitu untuk merubah suara kita menjadi tulisan.
+
+- Lalu pada menu speech nonaktifkan saja jika memang dirasa tidak perlu, karena salah satu fungsi online speech recognition yaitu untuk merubah suara kita menjadi tulisan.
 
   ![](/img/speech-recognition.png)
-* Lalu pada menu inking dan typing di off kan juga, ini berguna saat kalian menggunakan tablet atau menggunakan perangkat untuk menggambar.
+
+- Lalu pada menu inking dan typing di off kan juga, ini berguna saat kalian menggunakan tablet atau menggunakan perangkat untuk menggambar.
 
   ![](/img/typing-personalization.png)
-* Pada menu diagnostics dan feedback geser semua toggle ke kiri (Off).
+
+- Pada menu diagnostics dan feedback geser semua toggle ke kiri (Off).
 
   ![](/img/diagnostic-feedback.png)
-* Lalu delete diagnostic data.
-* Dan ubah feedback frequency ke never.
+
+- Lalu delete diagnostic data.
+- Dan ubah feedback frequency ke never.
 
   ![](/img/diagnostic-feedback-2.png)
 

@@ -3,21 +3,21 @@ title: 9 Hal yang Dilakukan Oleh Santri
 slug: 9 Hal yang Dilakukan Oleh Santri
 description: Hal hal yang saya alami selama menjadi santri
 summary: Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…Saya mau membagikan pengalaman yang -semoga saja- menarik selama menjadi santri, apa kalian juga pernah nyantri?
-categories: 'Coretan '
+categories: Coretan
 date: 2021-12-01
 tags:
-- mondok
-- santri
-aliases: "/posts/coretan/9-hal-yang-dilakukan-oleh-santri/"
+  - mondok
+  - santri
+aliases: '/posts/coretan/9-hal-yang-dilakukan-oleh-santri/'
 showComments: true
 showTableOfContents: true
-
 ---
+
 Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…
 
 saya mau membagikan pengalaman yang -semoga saja- menarik selama menjadi santri, apa kalian juga pernah nyantri ?
 
-***
+---
 
 _“Yaa…saya pernah 3 tahun ditingkat SMA”_
 
@@ -25,7 +25,7 @@ _“Alhamdulillah diberi kesempatan nyantri 6 tahun”_
 
 _“Saya belum pernah…tapi penasaran gimana sih keseruan menjadi santri”_
 
-***
+---
 
 Yang pernah menjadi santri bahkan sampai sekarang pun masih duduk di bangku pesantren, pasti punya dong pengalaman seru selama di pesantren?
 
@@ -97,8 +97,8 @@ Mungkin karena kebanyakan jajan, jadi saat ada kegiatan harus berhutang, karena 
 
 Sulit, tapi harus ada usaha buat menahan diri untuk engga minjem uang seenaknya, kecuali sangat-sangat mendesak.
 
-\+ _“Akhi, antum mau bayar hutang hari ini kan?_  
-_– “Eh afwan, saya ada kebutuhan mendesak nih, bulan depan aja gpp kan.? hehe..”_  
+\+ _“Akhi, antum mau bayar hutang hari ini kan?_
+_– “Eh afwan, saya ada kebutuhan mendesak nih, bulan depan aja gpp kan.? hehe..”_
 \+ _“Ouh gtu..Oke deh gpp…@><#$%&& :)”_
 
 Rada sedikit kesel sih sama temen yang suka ngaret kalau bayar hutang 🙂 Kecuali kalau dia ada kebutuhan yang mendesak jadi yaa mau gimana lagi, sabar aja.
@@ -129,7 +129,7 @@ Engga perlu lagi ngantri buat isi ember di aliran air yang kecil.
 
 By the way, pesantrenku mulai menggunakan air PDAM di tahun 2014 akhir.
 
-***
+---
 
 Sebelum menggunakan PDAM, kami mengalirkan air dari sungai yang letaknya tidak jauh dari pondokku berada.
 
@@ -165,7 +165,7 @@ Kuku dipotong pendek rapi, rambut engga boleh panjang apalagi diwarnai.
 
 Dilarang menggunakan pakaian bergambar makhluk hidup atau tulisan-tulisan “sayah”, celana pun tidak boleh terlalu ketat.
 
-Apalagi gadget, sangat terlarang disini.  
+Apalagi gadget, sangat terlarang disini.
 Terkecuali penggunaan laptop.
 
 Keluar pondok 2 pekan sekali. Kecuali ada keperluan penting tertentu.
@@ -242,6 +242,6 @@ Kenapa seperti itu? agar dimanapun dan kapanpun kita bisa menggunakan berbahasa 
 
 Hati-hati… kalau kamu menggunakan bahasa daerah, Sunda atau Jawa dsb, maka hukuman akan lebih berat.
 
-***
+---
 
 Kalau mau menambahkan pengalaman kamu saat nyantri atau mau bertanya, silahkan lewat kolom komentar yaa 🙂

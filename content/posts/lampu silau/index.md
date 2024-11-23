@@ -1,14 +1,14 @@
 ---
 title: Penggunaan Lampu Jauh, Antara Arogan Dan Bijak
 slug: penggunaan lampu jauh antara arogan dan bijak
-aliases: "/posts/coretan/penggunaan-lampu-jauh-antara-arogan-dan-bijak/"
+aliases: '/posts/coretan/penggunaan-lampu-jauh-antara-arogan-dan-bijak/'
 description: Kearoganan si paling high beam
 summary: Penggunaan lampu jauh (high beam) tak beda tipis dengan kearoganan pengguna knalpot _treng teng teng_ di jalanan, yang _mblayer_ gas motornya hingga suara knalpotnya memekakkan telinga.
-categories: 'Coretan '
+categories: Coretan
 date: 2022-11-24
 showComments: true
-
 ---
+
 Penggunaan lampu jauh (high beam) tak beda tipis dengan kearoganan pengguna knalpot _treng teng teng_ di jalanan, yang _mblayer_ gas motornya dengan angkuh hingga suara knalpotnya memekakkan telinga.
 
 Motor kekinian tidak memiliki tombol untuk mematikan lampu utama, toh itupun karena peraturan yang mewajibkan setiap motor untuk tetap menyalakan lampu utama di siang hari, jadi pabrikan tidak perlu lagi untuk menambahkan tombol _lamp off._
@@ -36,7 +36,7 @@ Hasilnya? Pengendara dari arah yang berlawanan akan kena imbas silau, pun demiki
 
 Ditambah lagi lampu zaman sekarang sudah LED, yang sudah pasti lebih terang dibandingkan lampu bohlam biasa (bulb).
 
-***
+---
 
 Beberapa waktu lalu saya dibuat kesal dengan salah satu pengendara Nmax.
 
@@ -51,6 +51,7 @@ Motor gambot itu menyalip dari kanan dengan jarak tidak kurang 10 cm dari spion 
 Ternyata bukan hanya saya saja yang mendapatkan sapaan klakson yang terkesan arogan itu, tapi kendaraan yang menghalangi jalannya mendapat sapaan yang serupa saat disalip.
 
 Saya mencoba menyalip motor tadi apakah memang pabrikan mengatur _low beam_ lebih tinggi dari biasanya, ternyata simbol high beam pada instrumen Nmax tadi memang menyala. Arogan!
+
 <div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
      crossorigin="anonymous"></script>

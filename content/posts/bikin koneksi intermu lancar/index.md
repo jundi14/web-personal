@@ -3,14 +3,14 @@ title: Bikin Koneksi Internetmu Lancar Dengan Mengurangi Bandwidth Windows Updat
 slug: cara untuk mengatur bandwidth windows
 description: Cara untuk mengatur bandwidth windows
 summary: Kamu mungkin pernah merasakan komputer sedikit lemot karena terkoneksi dengan internet. Bisa jadi memang koneksinya lemah atau banyak user yang terhubung jika menggunakan WiFi.
-categories: 'Teknologi '
+categories: Teknologi
 date: 2021-11-25
 tags:
-- bandwith
-aliases: "/posts/aliases/cara-untuk-mengatur-bandwidth-windows/"
+  - bandwith
+aliases: '/posts/aliases/cara-untuk-mengatur-bandwidth-windows/'
 showComments: true
-
 ---
+
 Kamu pasti pernah merasakan internet kamu melambat atau komputer sedikit lemot karena terkoneksi dengan internet.
 
 Bisa jadi memang koneksinya lemah atau ada banyak user yang terhubung dengan jaringan cukup banyak.
@@ -47,9 +47,9 @@ Pada opsi ini berfungsi untuk mengatur persentase bandwidth untuk windows update
 
 ![](/img/advanced-download-setting.png)
 
-1. Pada opsi yang pertama yaitu _Limit how much bandwidth is used for downloading updates in background_ yaitu batas maksimal bandwidth yang digunakan saat ada windows update, dan akan terjadi di belakang layar.  
+1. Pada opsi yang pertama yaitu _Limit how much bandwidth is used for downloading updates in background_ yaitu batas maksimal bandwidth yang digunakan saat ada windows update, dan akan terjadi di belakang layar.
    Kita ceklis dan atur berapa persen bandwidth yang ingin kita gunakan untuk proses tersebut.
-2. Dan opsi nomor yang kedua yaitu batas maksimal bandwidth yang digunakan saat kamu membuka aplikasi windows update.  
+2. Dan opsi nomor yang kedua yaitu batas maksimal bandwidth yang digunakan saat kamu membuka aplikasi windows update.
    Kamu ceklis juga pada opsi ini.
 
 Oiya perhatikan bandwidth kamu.

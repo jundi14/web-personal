@@ -1,19 +1,21 @@
 ---
-aliases: 
-categories: 'Teknologi '
+aliases:
+categories: Teknologi
 date: 2023-03-15
-description: Inilah cara untuk membeli laptop bekas agar tidak menyesal di kemudian
+description:
+  Inilah cara untuk membeli laptop bekas agar tidak menyesal di kemudian
   hari
-summary: Laptop menjadi hal yang wajib di hampir seluruh kegiatan kita sehari-hari.
+summary:
+  Laptop menjadi hal yang wajib di hampir seluruh kegiatan kita sehari-hari.
   Namun budget setiap orang bisa berbeda. Ada yang dengan ringan mengeluarkan
   uang dan ada juga yang selektif.
 showComments: true
 slug: tips-membeli-laptop-bekas
-tags: 
+tags:
 title: 9 Tips Membeli Laptop Bekas
 showTableOfContents: true
-
 ---
+
 Kebutuhan akan laptop menjadi hal yang hampir wajib di hampir seluruh kegiatan kita sehari-hari.
 
 Namun budget setiap orang bisa berbeda-beda. Ada yang mudah sekali mengeluarkan uang dan bisa bebas memilih apapun tipe maupun spesifikasi yang diinginkan.
@@ -120,7 +122,7 @@ Jika point-point yang sudah disebutkan diatas ada hal-hal yang minus, seperti ba
 
 Jangan ragu untuk menawar harganya, apalagi jika dirasa harganya tidak sesuai dengan kondisi yang seharusnya.
 
-***
+---
 
 Dengan mengikuti tips di atas, harapan saya kamu akan dapat membeli laptop bekas yang berkualitas dan sesuai dengan kebutuhan kamu dengan harga yang lebih terjangkau.
 

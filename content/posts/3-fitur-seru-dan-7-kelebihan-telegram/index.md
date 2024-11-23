@@ -3,15 +3,15 @@ title: 3 Fitur Seru dan 7 Kelebihan Telegram Dibandingkan Whatsapp
 slug: kelebihan telegram dibandingkan whatsapp
 description: Kelebihan telegram dibandingkan whatsapp yang perlu kamu ketahui
 summary: Saya akan menyebutkan beberapa fitur dan kelebihan telegram dibandingkan whatsapp, yang membuatmu berpikir lagi untuk menggunakan telegram sebagai aplikasi pesan instan favorit.
-categories: 'Teknologi '
+categories: Teknologi
 date: 2021-11-21
 tags:
-- telegram
-aliases: "/posts/teknologi/kelebihan-telegram-dibandingkan-whatsapp/"
+  - telegram
+aliases: '/posts/teknologi/kelebihan-telegram-dibandingkan-whatsapp/'
 showComments: true
 showTableOfContents: true
-
 ---
+
 Saya akan menyebutkan beberapa fitur dan juga kelebihan telegram dibandingkan whatsapp, yang ‘mungkin’ akan membuatmu berpikir dua kali untuk menggunakan telegram ini sebagai aplikasi pesan instan favorit kamu.
 
 ## Fitur Telegram
@@ -88,9 +88,9 @@ Dan ini juga tergantung seberapa cepat jaringan internet di tempat kamu berada. 
 
 saya yakin dengan tampilan yang bisa diatur sesuai dengan keinginan kita maka tidak akan ada lagi ungkapan bosan terhadap tampilan yang itu itu saja
 
-* Kamu bisa mengatur besar atau kecilnya huruf
-* Terdapat pilihan warna tema yang beragam
-* Mengatur seberapa besar ukuran stiker
+- Kamu bisa mengatur besar atau kecilnya huruf
+- Terdapat pilihan warna tema yang beragam
+- Mengatur seberapa besar ukuran stiker
 
 ### Berbagi File Besar? No Problem.
 
@@ -122,11 +122,11 @@ Fitur ini berfungsi untuk berkomunikasi dengan tingkat keamanan yang lebih tingg
 
 Dengan menambahkan beberapa fitur tambahan pada secret chat yaitu :
 
-* Kamu dan lawan bicara harus online di waktu yang sama, dan dalam jangka waktu tertentu riwayat chat akan terhapus dari mulai 1 detik dan paling lama 1 pekan, tergantung seberapa lama kamu mengaturnya
-* Dan chat kamu tidak akan akan meninggalkan jejak pada server telegram.
-* Fitur ini juga tidak mengijinkan kamu untuk meneruskan pesan yang ada.
-* Kamu tidak akan bisa melakukan screenshot, demi menjaga privasi.
-* Secret chat menggunakan enkripsi end to end yang memperketat keamanan saat masuk ruang chatting.
+- Kamu dan lawan bicara harus online di waktu yang sama, dan dalam jangka waktu tertentu riwayat chat akan terhapus dari mulai 1 detik dan paling lama 1 pekan, tergantung seberapa lama kamu mengaturnya
+- Dan chat kamu tidak akan akan meninggalkan jejak pada server telegram.
+- Fitur ini juga tidak mengijinkan kamu untuk meneruskan pesan yang ada.
+- Kamu tidak akan bisa melakukan screenshot, demi menjaga privasi.
+- Secret chat menggunakan enkripsi end to end yang memperketat keamanan saat masuk ruang chatting.
 
 Menurut CEO telegram, Pavel Durov. Sistem **enkripsi end to end** yang telegram miliki bukan abal-abal seperti halnya whatsapp yang menurut pemaparannya tidak seperti apa yang digaungkan selama ini.
 

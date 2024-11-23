@@ -1,16 +1,16 @@
 ---
 title: Vantablack Material Terhitam Di Bumi, Ini Contoh Penampakannya
 slug: benda terhitam di bumi
-categories: 'Teknologi '
+categories: Teknologi
 summary: Vantablack adalah bahan yang dikembangkan oleh Surrey NanoSystems dan merupakan salah satu zat paling gelap yang diketahui hingga saat ini, menyerap hingga 99.965% cahaya tampak.
 date: 2021-12-02
 tags:
-- bmw
-- black
+  - bmw
+  - black
 showComments: true
 showTableOfContents: true
-
 ---
+
 Vantablack adalah bahan yang dikembangkan oleh Surrey NanoSystems di Inggris Raya dan merupakan salah satu zat paling gelap yang diketahui, menyerap hingga 99.965% cahaya tampak (pada 663 nm jika cahaya tegak lurus dengan bahan).
 
 Tidak ada batasan dalam penggunaannya dan tidak ada kontrol ekspor, tetapi memerlukan pelatihan spesialis dan lingkungan penyemprotan profesional agar berhasil diterapkan.
@@ -167,4 +167,4 @@ Pelapis diterapkan di fasilitas produksi kami di Inggris atau, di mana integrasi
 
 Sumber :
 
-[https://www.surreynanosystems.com/](https://www.surreynanosystems.com/ "https://www.surreynanosystems.com/")
+[https://www.surreynanosystems.com/](https://www.surreynanosystems.com/ 'https://www.surreynanosystems.com/')

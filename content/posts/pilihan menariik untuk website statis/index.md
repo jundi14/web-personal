@@ -3,14 +3,14 @@ title: Pilihan Menarik, Website Statik
 slug: migrasi ke hugo
 description: 'Pilihan buat kamu yang ingin membuat website '
 summary: Beberapa waktu lalu saya menggunakan wordpress untuk membuat blog, menggunakan hosting dan yang pasti domain juga. Saya jarang update artikel tetapi tetap membayar layanan hosting.
-categories: 'Teknologi '
+categories: Teknologi
 date: 2022-01-04
 tags:
-- static
-- hugo
+  - static
+  - hugo
 showComments: true
-
 ---
+
 Beberapa waktu lalu saya menggunakan wordpress untuk membuat website. Saya juga menggunakan hosting dan yang pasti domain juga.
 
 Tapi saya jarang update artikel dan tetap membayar jasa layanan hosting bulanan.
@@ -42,9 +42,9 @@ Sangat bisa.
 
 Ada banyak sekali alternatif sebenarnya.
 
-* **Pertama**, menggunakan blogger.com.
-* **Kedua**, menggunakan layanan github.com.
-* **Ketiga**, menggunakan SSG (Static Site Generator)
+- **Pertama**, menggunakan blogger.com.
+- **Kedua**, menggunakan layanan github.com.
+- **Ketiga**, menggunakan SSG (Static Site Generator)
 
 Sebenarnya masih banyak lainnya, tetapi saya rasa terlalu teknis dan cukup sulit, terutama bagi saya.
 
@@ -77,6 +77,7 @@ HUGO itu salah satunya, dan masih banyak layanan SSG lainnya. Contohnya seperti 
 Saya akan saya coba lain waktu :)
 
 See you...
+
 <div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
      crossorigin="anonymous"></script>
