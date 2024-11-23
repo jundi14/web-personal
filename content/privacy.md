@@ -1,6 +1,6 @@
 ---
 title: Privacy
-description: Kebijakan Privasi Situs jundi.web.id
+description: Kebijakan Privasi Situs
 showReadingtime: false
 showWordCount: false
 showDate: false
@@ -18,7 +18,7 @@ Saya menggunakan aplikasi berikut ini untuk mengaplikasikan fitur berkaitan tent
 
 #### Netlify
 
-Situs ini di-host oleh Netlify. Kamu dapat membaca tentang kebijakan privasi mereka [disini](https://www.netlify.com/privacy/ "Netlify Privasi")
+Situs ini di-host oleh Netlify. Kamu dapat membaca tentang kebijakan privasi mereka [disini](https://www.netlify.com/privacy/ 'Netlify Privasi')
 
 #### Umami
 
@@ -30,12 +30,13 @@ Umami tidak mengumpulkan informasi identitas pribadi apa pun dan menganonimkan s
 
 Saya menggunakan vercel sebagai infrastruktur awan untuk menjalankan layanan analitik dari umami.
 
-Kamu dapat membaca tentang informasi apa yang mereka kumpulkan dari pengguna [disini](https://vercel.com/legal/privacy-policy#information-we-collect "Informasi yang dikumpulkan oleh vercel")
+Kamu dapat membaca tentang informasi apa yang mereka kumpulkan dari pengguna [disini](https://vercel.com/legal/privacy-policy#information-we-collect 'Informasi yang dikumpulkan oleh vercel')
 
 #### Disquss
 
-Pada layanan komentar artikel saya menggunakan disquss, kamu bisa membaca kebijakan privasi mereka dan data yang mereka kumpulkan [disini](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy "Kebijakan Privasi Disquss")
-***
+Pada layanan komentar artikel saya menggunakan disquss, kamu bisa membaca kebijakan privasi mereka dan data yang mereka kumpulkan [disini](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy 'Kebijakan Privasi Disquss')
+
+---
 
 ### Kebijakan Lisensi Konten
 

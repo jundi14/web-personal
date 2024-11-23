@@ -12,13 +12,13 @@ title = "Jundi Mubarok"
   # logo = "img/default-monochrome-white.svg"
   # secondaryLogo = "img/default-monochrome-black.svg"
   description = "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website"
-  copyright = "⚡by [Blowfish](https://blowfish.page) my opinions are my own"
+  copyright = "⚡by [Blowfish](https://blowfish.page). My opinions are my own"
 
 [params.author]
    name = "Jundi"
    # email = "jundimubarok74@gmail.com"
    image = "img/author-baru.jpg"
-   imageQuality = 40
+   imageQuality = 30
    headline = "I'm only human"
    bio = "Write Stories Share Inspiration"
    links = [

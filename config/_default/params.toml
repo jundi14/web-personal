@@ -21,7 +21,7 @@ backgroundImageWidth = 1000
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 highlightCurrentMenuArea = true
 smartTOC = true
-smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = false
 # giteaDefaultServer = "https://git.fsfe.org"
 # forgejoDefaultServer = "https://v8.next.forgejo.org"
 [header]
