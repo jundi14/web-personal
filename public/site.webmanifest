@@ -1,0 +1,67 @@
+{
+  "name": "Jundi Mubarok",
+  "short_name": "jundimubarok",
+  "description": "Suka berbagi cerita tentang pengalaman sehari-hari dan membagikan tutorial seputar teknologi.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot1.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpg",
+      "platform": "narrow",
+      "label": "Jundi Mubarok"
+    }
+  ],
+  "display_override": [
+    "standalone"
+  ],
+  "shortcuts": [
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Posts",
+      "url": "/posts",
+      "description": "Kumpulan seluruh artikel yang pernah saya tulis selama ini."
+    }
+  ],
+  "start_url": "https://jundimubarok.com/",
+  "scope": "/",
+  "prefer_related_applications": false,
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "lang": "id",
+  "orientation": "portrait-primary",
+  "categories": [
+    "lifestyle"
+  ],
+  "display": "standalone",
+  "edge_side_panel": {
+    "preferred_width": 400
+  },
+  "id": "/"
+}
