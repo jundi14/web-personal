@@ -5,15 +5,15 @@ description: Dompet digital menjadi sebuah keharusan di era digital ini, sebuah 
 categories: Teknologi
 summary: Dari sekian banyak e-wallet, **DANA** menjadi e-wallet pilihan saya untuk bertransaksi online, menghemat beberapa ribu rupiah karena hampir tidak ada biaya admin saat top up dan transfer.
 date: 2024-05-26
-tags: 
-    - opini
-aliases: 
+tags:
+  - opini
+aliases:
 showComments: true
 showTableOfContents: true
 draft: false
 ---
 
-Buat kita sebagai anak muda nggak asing dengan yang namanya dompet digital, yang populer itu Dana, Ovo, Shopeepay dan Gopay.  
+Buat kita sebagai anak muda nggak asing dengan yang namanya dompet digital, yang populer itu Dana, Ovo, Shopeepay dan Gopay.
 
 Diantara banyaknya dompet digital, saya lebih enak menggunakan DANA.
 
@@ -31,28 +31,13 @@ Padahal di empunya Dana ngga pernah kenal siapa nomor atau rek tujuan, apalagi s
 
 Bisa jadi pernah korban pishing, entah gimana caranya bisa masuk perangkap. Tapi yang pasti hati-hati aja soalnya namanya dompet digital kan ngga ada bank fisiknya yang bisa komplain, lagian kalau udah kena pishing salah kita juga kok 😂
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
 Makanya saya juga tidak pernah menyimpan uang dalam jumlah banyak di DANA, paling cuman numpang 'lewat' saja. Numpang transfer ke bank lain biar ngga kena biaya admin, mwehehe.
 
 Walaupun kadang suka was was juga, namanya celah keamanan pasti ada aja. Semoga ngga akan terjadi lagi kepada siapapun deh.
 
 Balik lagi deh ke judul, saya sering menggunakan dana ini buat beli pulsa, kuota internet dan beli token listrik kadang juga buat transfer saat membeli barang di tokopedia.
 
-![Fitur E-Wallet Dana](/img/ewallet-andalan/fitur-pembayaran.jpg "Layanan di Aplikasi Dana")
+![Fitur E-Wallet Dana](./ewallet-andalan/fitur-pembayaran.jpg 'Layanan di Aplikasi Dana')
 
 Kalau kita lihat gambar diatas ada banyak sekali layanan yang tersedia, jadi 1 aplikasi bisa multifungsi.
 

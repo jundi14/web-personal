@@ -38,7 +38,7 @@ Ya karena dokumentasi di semua website statis berbahasa inggris seluruhnya dan t
 
 Beberapa waktu lalu saya baru saja menyelesaikan pembelajaran daring di **[impactfulwriting](https://certifiedimpactfulwriter.com)** dan saya berhasil mendapatkan sertifat pertama saya di dunia kepenulisan.
 
-![Sertifikat Kepenulisan Impactful Writing](/img/about/Sertifikat-CIW-Batch-26.png)
+![Sertifikat Kepenulisan Impactful Writing](./Sertifikat-CIW-Batch-26.png)
 
 Ini adalah langkah awal yang baik buat saya untuk terus belajar mendalami ilmu di dunia kepenulisan.
 
@@ -81,6 +81,6 @@ Salam hangat,\
 
 <a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a>
 
-![](img/about/Written-By-Human-Not-By-AI-Badge-white.svg)
+![](./Written-By-Human-Not-By-AI-Badge-white.svg)
 
 <p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p>

@@ -1,13 +1,13 @@
 ---
-title: Cerita Saat Saya Membuat Blog Untuk Pertama Kalinya 
+title: Cerita Saat Saya Membuat Blog Untuk Pertama Kalinya
 slug: membuat-blog
 description: Saat pertama kali ingin membuat website pilihan ada pada blogspot dan wordpress, dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas banyak.
 categories: Coretan
 summary: Pemula pasti akan memilih antara blogspot dan wordpress, dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas yang tidak sedikit.
 date: 2024-06-11
-tags: 
-    - static
-    - hugo
+tags:
+  - static
+  - hugo
 showComments: true
 showTableOfContents: true
 draft: false
@@ -38,21 +38,6 @@ Bagaimanapun warganet tidak peduli kita mau menghosting website kita itu dimana
 
 Hal yang penting buat warganet adalah kecepatan website saat diakses harus lah cepat, jika dibawah 3 detik website tidak terbuka, maka mereka akan kesal lalu meninggalkan website kita.
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
 Ya **kecepatan** menjadi hal yang dipertimbangkan oleh warganet saat mengakses sebuah website, yang terpenting halaman yang tampil saat pertama kali dilihat oleh mata mereka sudah tampil sempurna pada 2 detik awal.
 
 Tidak peduli bagian bawah halaman yang belum dimuat, saat halaman website digulirkan ke bawah, halaman website harus dimuat dengan segera, supaya memaksimalkan kenyamanan pembaca.
@@ -79,28 +64,13 @@ Saat itu saya bergabung dengan grup telegram yang didalamnya banyak pengguna wor
 
 Sangat terbantu karena tema blocksy ternyata tema yang diinginkan banyak user wordPress, akhirnya dibukalah patungan tema blocksy ini.
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
 Lebih murah, karena dibagi 20 orang, yang harga temanya sendiri kisaran 299$-Oktober 2021- saat itu nilai mata uang dollar terhadap rupiah sekitar Rp 14.199. Berarti harganya kisaran 4,2 jutaan rupiah.
 
-![Blocksy Premium Agency](/img/kisah-awal/blocksy-agency.png "*Harga Blocksy Premium | Source: [Blocksy Pricing](https://creativethemes.com/blocksy/pricing/?plan=lifetime)*")
+![Blocksy Premium Agency](./kisah-awal/blocksy-agency.png '*Harga Blocksy Premium | Source: [Blocksy Pricing](https://creativethemes.com/blocksy/pricing/?plan=lifetime)*')
 
 Saat ini harganya 499$. Luar biasa, harganya melonjak naik 200$ dalam kurung waktu kurang dari 3 tahun.
 
-Nilai mata uang dollar terhadap rupiah per juni 2024 kisaran Rp 16.290. . 
+Nilai mata uang dollar terhadap rupiah per juni 2024 kisaran Rp 16.290. .
 
 Silahkan hitung sendiri berapa juta, dengan catatan tema yang saya beli adalah tema agency yang bisa digunakan di **Unlimited Licenses** , jadi sangat cocok untuk agency dan freelancer.
 
@@ -120,10 +90,11 @@ Setelah mengikuti berbagai grup dan komunitas, akhirnya saya memilih untuk mengg
 
 Selain membuat bingung karena memang fungsinya kurang lebih sama dan bisa juga kedua plugin ini mengakibatkan crash atau error pada website.
 
-Tentu ada banyak plugin lainnya yang menunjang kebutuhan pada website kita : 
-  - Menampilkan tombol share yang lebih baik
-  - Membangun halaman tambahan yang lebih menarik
-  - Menambahkan menu transaksi (website jual beli)
+Tentu ada banyak plugin lainnya yang menunjang kebutuhan pada website kita :
+
+- Menampilkan tombol share yang lebih baik
+- Membangun halaman tambahan yang lebih menarik
+- Menambahkan menu transaksi (website jual beli)
 
 Dan lainnya.
 
@@ -137,8 +108,8 @@ Secara berkala tentunya ada pembaharuan tema dan plugin.
 
 Entah itu untuk memperbaiki celah keamanan yang ada pada fitur sebelumnya atau sekedar penambahan fitur terbaru.
 
->Adakalanya, menginstal atau memperbarui plugin atau tema menyebabkan situs menjadi down atau tidak aktif.\
-[Wordpress](https://wordpress.com/id/support/mengapa-situs-saya-down/#theres-a-critical-error-on-your-site)
+> Adakalanya, menginstal atau memperbarui plugin atau tema menyebabkan situs menjadi down atau tidak aktif.\
+> [Wordpress](https://wordpress.com/id/support/mengapa-situs-saya-down/#theres-a-critical-error-on-your-site)
 
 Situs wordpressnya sendiri yang bilang begitu.
 
@@ -146,40 +117,27 @@ Sedikit menyebalkan memang, tinggal cari waktu yang tepat untuk pembaharuan, diw
 
 Walaupun tidak pasti akan down, tapi hanya waspada saja menghindari waktu waktu yang beresiko.
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
 Sebagai info, website wordpress banyak digunakan mayoritas di seluruh dunia
 
-Fakta Singkat menurut [wpzoom](https://www.wpzoom.com/blog/wordpress-statistics/): 
+Fakta Singkat menurut [wpzoom](https://www.wpzoom.com/blog/wordpress-statistics/):
+
 - Kekuatan WordPress 43,4% dari semua situs web sebagai CMS mereka.
 - Sekitar 474 juta situs web dibangun di WordPress.
 
 Nah karena wordpress banyak digunakan, sehingga memang menjadi incaran utama hacker. Hacker punya banyak motivasi untuk membajak website.
-![Motivasi untuk membajak website](/img/kisah-awal/motivasi-hacker.png "*Source: Hacker One Report 2021*")
+![Motivasi untuk membajak website](./kisah-awal/motivasi-hacker.png '*Source: Hacker One Report 2021*')
 
 Celah keamanan yang paling dominan itu dari plugin, entah plugin jarang dilakukan pembaharuan ataupun pemilik website menggunakan plugin yang mengandung malware.
-![Persentase Penyebab Hack](/img/kisah-awal/persentase-penyebab-hack.png "*Source: Get Astra*")
-***
+![Persentase Penyebab Hack](./persentase-penyebab-hack.png '*Source: Get Astra*')
+
+---
+
 Itulah sedikit cerita ketika saya membuat website untuk pertama kalinya.
 
 FYI untuk saat ini saya menggunakan website yang berbeda, bukan wordpress ataupun blogspot.
 
-Mungkin ada yang *ngeh* ketika kamu melihat footer di bawah kanan.
+Mungkin ada yang _ngeh_ ketika kamu melihat footer di bawah kanan.
 
 Ya saya menggunakan hugo, hugo merupakan generator situs statis. Mengapa saya menggunakan website itu?
 
 Alasannya ada di [postingan ini](https://jundi.web.id/posts/kelebihan-dan-kekurangan-menggunakan-website-statis/). Selamat Membaca😀
-

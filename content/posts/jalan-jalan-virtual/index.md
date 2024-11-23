@@ -3,18 +3,18 @@ title: Berkendara Online, Rasakan Sensasi Jalan-jalan ke Mancanegara Secara Virt
 slug: menikmati jalan-jalan secara virtual
 description: Saat keuangan tidak mencukupi untuk bepergian ke berbagai negara, aplikasi ini membantu kamu untuk menikmati indahnya jalanan di berbagai kota di mancanegara.
 categories: Teknologi
-summary: Ada banyak travel vlogger yang suka membagikan momen ketika bepergian ke mancanegara. Walau keuangan tidak mendukung kita tetap bisa kok jalan-jalan, walaupun secara virtual. 
+summary: Ada banyak travel vlogger yang suka membagikan momen ketika bepergian ke mancanegara. Walau keuangan tidak mendukung kita tetap bisa kok jalan-jalan, walaupun secara virtual.
 date: 2023-08-26
-tags: 
-    - virtual
+tags:
+  - virtual
 showComments: true
 showTableOfContents: true
 draft: false
 ---
 
-Travel vlogger suka membagikan momen liburan mereka bersama keluarga ke berbagai negara, menikmati suasana yang berbeda; kuliner, cuaca, dan kultur budaya. 
+Travel vlogger suka membagikan momen liburan mereka bersama keluarga ke berbagai negara, menikmati suasana yang berbeda; kuliner, cuaca, dan kultur budaya.
 
-Iri? Iya sedikit. 
+Iri? Iya sedikit.
 
 Apakah kamu merasakan hal yang serupa?
 
@@ -40,7 +40,7 @@ Silahkan klik tombol dibawah ini
 
 Pada websitenya akan menampilkan jalanan dari arah pengemudi.
 
-![Drive and Listen](/img/jalan-jalan-virtual/homepage-drive-and-listen.png)
+![Drive and Listen](./jalan-jalan-virtual/homepage-drive-and-listen.png)
 
 Ada banyak kota yang kamu bisa coba, tinggal scroll saja lalu pilih kota mana yang ingin kamu kunjungi.
 

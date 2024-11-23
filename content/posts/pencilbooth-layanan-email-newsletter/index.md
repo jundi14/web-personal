@@ -1,12 +1,12 @@
 ---
 title: Pencilbooth, Layanan Email Newsletter Sederhana Tapi Tetap Customable
 slug: pencilbooth email newsletter
-description: 
+description:
 categories: Teknologi
 summary: Saya menemukan aplikasi email newsletter yang cukup sederhana tapi tetap customable dan menarik untuk dicoba, sepertinya belum banyak orang yang menggunakannya. Aplikasi apa itu?
 date: 2024-11-02
-tags: 
-    - email
+tags:
+  - email
 showComments: true
 showTableOfContents: true
 draft: false
@@ -16,19 +16,19 @@ Saya menemukan aplikasi email newsletter yang cukup sederhana tetapi menarik unt
 
 **Pencilbooth**, saya yakin kamu juga baru mendengar aplikasi newsletter email ini.
 
-Seperti halnya aplikasi newsletter lainnya yang berguna untuk mengumpulkan email pengguna dan membagikan hal tertentu dari list email yang sudah terdaftar. 
+Seperti halnya aplikasi newsletter lainnya yang berguna untuk mengumpulkan email pengguna dan membagikan hal tertentu dari list email yang sudah terdaftar.
 
 Pencilbooth ini berdiri sendiri dengan domain utama kemudian disambung dengan username yang bisa kita custom, tentunya dengan username yang masih tersedia.
 
 Kita bisa membagikan halaman pencilbooth secara langsung atau bisa juga embed ke website yang sudah kamu miliki.
 
-![Embed to website and Advanced Styling](img/pencilbooth/advanced.png "Fitur Embed dan Advanced Styling")
+![Embed to website and Advanced Styling](./advanced.png 'Fitur Embed dan Advanced Styling')
 
 Menariknya walaupun terlihat sederhana, kita diberikan kebebasan untuk custom form dengan mudah, dengan class CSS yang bisa diedit sesuka hati.
 
 Sayangnya pencilbooth dalam versi yang gratis hanya bisa menampung 100 email saja.
 
-![Upgrade Plan Pencilbooth](img/pencilbooth/upgrade.png)
+![Upgrade Plan Pencilbooth](./upgrade.png)
 
 Walaupun begitu tidak ada salahnya untuk mencoba, toh mencari subscriber tidak semudah yang dibayangkan.
 
@@ -40,7 +40,7 @@ Karenanya saya memasang formulir email newsletter ini supaya pembaca bisa berlan
 
 Seperti ini template draft email yang akan dikirim ke subscriber pencilbooth
 
-![](img/pencilbooth/takes.png)
+![](./takes.png)
 
 Jika saja jatah kuota 100 email ini sudah penuh, mungkin perlu diadakan syukuran kecil-kecilan, hehe.
 

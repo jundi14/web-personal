@@ -1,13 +1,13 @@
 ---
 title: Mobil Listrik Lebih Efisienkah Dibanding Mobil Konvensional?
 slug: mobil listrik lebih efisien
-description: Kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela 
+description: Kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela
 categories: Teknologi
 summary: Mari kita ulas fakta yang perlu kamu ketahui dari Electric Vehicle yang sekarang sudah merajalela ini, bahkan 'muscle car' pun tidak mau ketinggalan zaman, beralih menjadi EV pula.
 date: 2024-05-04
-tags: 
-    - ev
-aliases: 
+tags:
+  - ev
+aliases:
 showComments: true
 showTableOfContents: true
 draft: false
@@ -21,11 +21,11 @@ Apalagi jika melihat pengeluaran untuk membiayai perjalanan jika menggunakan mob
 
 Tapi sekali lagi apakah betul itu faktanya?
 
-Coba kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela ini, bahkan muscle car pun ikut ikutan trend EV. 
+Coba kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang sekarang sudah merajalela ini, bahkan muscle car pun ikut ikutan trend EV.
 
-Ya, **Dodge Charge Daytona** mobil yang kekar dan punya tenaga yang buas. 
+Ya, **Dodge Charge Daytona** mobil yang kekar dan punya tenaga yang buas.
 
-![Dodge Charger EV](/img/mobil-ev/dodge-charger.jpg "Dodge Charger EV **|** *Sumber: gridoto.com*")
+![Dodge Charger EV](./dodge-charger.jpg 'Dodge Charger EV **|** *Sumber: gridoto.com*')
 
 Mobil yang sering digunakan pada serial **Fast & Furious** ini menjadi terlihat 'cupu' karena saat ini ada versi EV nya yang pasti tidak ada lagi suara knalpot yang bisa mengintimidasi rivalnya.
 
@@ -46,35 +46,20 @@ Biaya awal yang dikeluarkan lebih besar, bahkan jauh lebih besar dibandingkan ke
 
 Bisa dibilang ini investasi awal yang sangat besar buat EV, percaya tidak harga baterai pada mobil listrik bisa mencapai hampir setengahnya dari harga mobil, bahkan lebih.
 
-Contoh saja harga Hyundai Ioniq 5 tipe standard range yaitu 680 jutaan dan tipe long range yaitu Rp 784 jutaan. 
+Contoh saja harga Hyundai Ioniq 5 tipe standard range yaitu 680 jutaan dan tipe long range yaitu Rp 784 jutaan.
 
 Keduanya punya harga baterai yang berbeda karena kedua tipe tersebut perbedaan yang paling besar yaitu kapasitas baterainya.
 
 Fajar Ahya (Assembly Processing Engineer Hyundai) mengungkapkan bahwa harga baterai Hyundai Ioniq 5 tipe standard berkisar Rp 300 jutaan, sedangkan long range-nya dibanderol Rp 400 jutaan.
 
-![Hyundai Ioniq 5](/img/mobil-ev/ioniq-5.jpg "Hyundai Ioniq 5 **|** *Sumber: carmudi.co.id*")
+![Hyundai Ioniq 5](./ioniq-5.jpg 'Hyundai Ioniq 5 **|** *Sumber: carmudi.co.id*')
 
-Luar biasa! 
+Luar biasa!
 Awal mobil listrik masuk ke indonesia pada tahun 2022, berarti belum genap 2 tahun mobil listrik masuk ke indonesia
 
 Pabrikan mobil listrik biasanya memberikan garansi terhadap baterai selama 8 tahun/160.000 km, mana yang tercapai lebih dulu.
 
 Bahkan ada pabrikan seperti MG memberikan garansi seumur hidup, tapi syarat itu diberikan kepada tiga ribu pembeli pertama pada seri MG4 EV dan MG ZS EV, tentu SK berlaku.
-
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
 
 Berarti saat ini kita belum bisa menghitung apakah ‘berinvestasi' uang yang cukup besar untuk baterai ini cukup worth it
 
@@ -90,9 +75,9 @@ Karena kita tahu sendiri smartphone pun punya masa pakai apalagi dengan pemakaia
 
 Bisa dibayangkan jika suatu saat nanti baterai mobil listrik diganti, butuh jauh lebih banyak uang jika dibandingkan dengan biaya perawatan kendaraan konvensional.
 
-Pada akhirnya ada banyak kemungkinan. 
+Pada akhirnya ada banyak kemungkinan.
 
-Bisa jadi biayanya lebih mahal dari kendaraan konvensional atau bisa saja jika baterainya berkualitas tinggi bisa jauh lebih lama usianya dari klaim pabrikan, yang bisa membuat mobil listrik bisa lebih efisien 
+Bisa jadi biayanya lebih mahal dari kendaraan konvensional atau bisa saja jika baterainya berkualitas tinggi bisa jauh lebih lama usianya dari klaim pabrikan, yang bisa membuat mobil listrik bisa lebih efisien
 
 Bahkan bisa jadi selisih konsumsi kendaraan konvensional dengan EV untuk suatu saat nanti digunakan untuk mengganti baterai baru.
 
@@ -124,22 +109,7 @@ Jadi jangan lupa ada biaya lagi yang harus dikeluarkan jika memang listrik dirum
 
 Ya membangun lagi home charging itu perlu biaya dong, sama saja seperti rumah kamu dipasang token listrik baru, bedanya ini khusus buat EV.
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
-***
+---
 
 Melihat 2 poin di atas apakah sudah cukup terbayang seberapa ‘murah’ mobil listrik?
 
@@ -149,7 +119,7 @@ Karena untuk berjaga-jaga jika baterai perlu diganti jika sudah satu windu karen
 
 Kalau saya melihat orang yang membeli mobil listrik ini pasti memiliki mobil lain bukan hanya mobil listrik saja.
 
-![SPKLU](/img/mobil-ev/spklu.jpg "*Sumber: koran.tempo.co*")
+![SPKLU](./spklu.jpg '*Sumber: koran.tempo.co*')
 
 Karena memang mobil listrik belum bisa menjadi mobil utama, karena kita tahu Stasiun Pengisian Kendaraan Listrik Umum (SPKLU) belum menyebar secara merata di indonesia. Hanya di titik tertentu saja.
 
@@ -167,11 +137,11 @@ Ada yang berkomentar bahwa mobill litrik punya frekuensi yang membuat nyamuk itu
 
 Cukup menarik dan mengganggu juga jika kita punya mobil canggih tapi banyak nyamuk.
 
-ada satu kelemahan lagi menurut saya, yaitu mobil hampir tidak ada suaranya karena hanya motor yang menggerakan roda saja. 
+ada satu kelemahan lagi menurut saya, yaitu mobil hampir tidak ada suaranya karena hanya motor yang menggerakan roda saja.
 
 ### Tidak ada raungan knalpot.
 
-itu kelemahan bagi yang suka suara [ASMR](https://www.guesehat.com/apa-itu-asmr-kenapa-banyak-orang-menyukainya). 
+itu kelemahan bagi yang suka suara [ASMR](https://www.guesehat.com/apa-itu-asmr-kenapa-banyak-orang-menyukainya).
 
 Loh iya kan?
 

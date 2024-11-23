@@ -29,17 +29,17 @@ Jika kalian ingin mengetahui aplikasi apa saja yang berjalan di startup maka kal
 
 Caranya klik kanan di area kosong taskbar lalu pilih task manager. Lalu pilih tab startup dan kalian akan melihat ada beberapa aplikasi yang enable, berarti itu aplikasi yang akan langsung dijalankan pada saat kalian menyalakan Laptop kalian.
 
-Ada beberapa aplikasi yang mungkin kalian akan tetap berjalan pada saat startup, tapi ada juga yang tidak diperlukan yang mengharuskan untuk mendisable untuk kinerja lebih cepat![](/img/buka-task-manager.png)
+Ada beberapa aplikasi yang mungkin kalian akan tetap berjalan pada saat startup, tapi ada juga yang tidak diperlukan yang mengharuskan untuk mendisable untuk kinerja lebih cepat![](./buka-task-manager.png)
 
 Cara untuk menghilangkan logo windows yaitu dengan cara klik logo **Windows + R** pada keyboard, lalu ketikkan msconfig lalu klik enter. Maka akan tampil menu menu disana, centang saja pada bagian “No gui boot”.
 
-![](/img/menghilangkan-bot-gui.png)
+![](./menghilangkan-bot-gui.png)
 
 Jika muncul peringatan untuk merestart laptop kalian maka bisa kalian restart saat itu juga atau bisa nanti, barangkali kalian memiliki pekerjaan yang perlu kalian simpan terlebih dahulu sebelum di restart.
 
 ## Menonaktifkan update services
 
-![](/img/nonaktifkan-services.png)
+![](./nonaktifkan-services.png)
 
 Ini adalah cara lanjutan diatas, klik pada menu **service**, lalu centang hide all Microsoft service, lalu pilih hilangkan ceklis pada services update yang kira kira tidak perlu kalian gunakan atau bahkan tidak perlu.
 
@@ -51,15 +51,15 @@ Ada 2 file temporary yang bisa kita hapus :
 
 Cara pertama yaitu tekan logo **Windows + R** pada keyboard lalu ketikkan “temp” tanpa tanda kutip lalu enter, hapus semua file disitu.
 
-![](/img/menghapus-file-temporary-1.png)
+![](./menghapus-file-temporary-1.png)
 
 Cara kedua yaitu ketik kembali logi Windows + R lalu ketikkan “%temp%”
 
-![](/img/cara-kedua-hapus-file-temporary.png)
+![](./cara-kedua-hapus-file-temporary.png)
 
 Biasanya akan ada file yang tidak bisa dihapus, caranya centang saja pada bagian “Do this for all current items” lalu klik skip
 
-![](/img/try-again.png)
+![](./try-again.png)
 
 ## Mengurangi animasi
 
@@ -67,7 +67,7 @@ Cara ini mengurangi sebagian besar animasi pada windows.
 
 Caranya, klik menu start lalu ketikan performance lalu pilih “Adjust the appereance and performance”
 
-![](/img/7-mengurangi-animasi.png)
+![](./7-mengurangi-animasi.png)
 
 Lalu pilihlah “Adjust for best performance” untuk menghilangkan semua yang terceklis, lalu pilihlah 4 opsi ini saja, yaitu:
 
@@ -76,7 +76,7 @@ Lalu pilihlah “Adjust for best performance” untuk menghilangkan semua yang t
 - Show window contents while dragging (Opsional), fungsinya adalah untuk memperlihatkan konten jendela pada saat jendela di drag/geser.
 - **Smooth edges of screen fonts**
 
-  ![](/img/visual-effect.png)
+  ![](./visual-effect.png)
 
 Untuk poin yang saya hitamkan itu **wajib** untuk dicentang, karena akan mempengaruhi tampilan secara signifikan yang berefek pada tidak nyamannya dalam tampilan user interface windows kalian.
 
@@ -86,35 +86,25 @@ Akan saya jelaskan secara lebih rinci di artikel mendatang.
 
 Buka menu settings, lalu pilih personalize dan pilih taskbar lalu geser toggle “Transparency effect” ke posisi off dan ini wajib jika ingin memperingan kerja sistem windows kalian agar lebih cepat.
 
-![](/img/transparancy-effect.png)
+![](./transparancy-effect.png)
 
 Lalu hilangkan semua centang sampai kebawah, dan ini sifatnya opsional saja.
 
-![](/img/acent-color.png)
+![](./acent-color.png)
 
 ## Mengurangi kerja system di background
 
 - Buka menu privasi pada setting lalu pada menu general nonaktifkan semuanya.
-
-  ![](/img/general-privacy-setting.png)
-
+  ![](./general-privacy-setting.png)
 - Lalu pada menu speech nonaktifkan saja jika memang dirasa tidak perlu, karena salah satu fungsi online speech recognition yaitu untuk merubah suara kita menjadi tulisan.
-
-  ![](/img/speech-recognition.png)
-
+  ![](./speech-recognition.png)
 - Lalu pada menu inking dan typing di off kan juga, ini berguna saat kalian menggunakan tablet atau menggunakan perangkat untuk menggambar.
-
-  ![](/img/typing-personalization.png)
-
+  ![](./typing-personalization.png)
 - Pada menu diagnostics dan feedback geser semua toggle ke kiri (Off).
-
-  ![](/img/diagnostic-feedback.png)
-
+  ![](./diagnostic-feedback.png)
 - Lalu delete diagnostic data.
 - Dan ubah feedback frequency ke never.
-
-  ![](/img/diagnostic-feedback-2.png)
-
-Ini salah satu cara yang bisa kalian lakukan agar laptop kalian yang lambat bisa lancar kembali, dan sekali lagi, ini tergantung kepada spesifikasi hardware laptop kalian.
+  ![](./diagnostic-feedback-2.png)
+  Ini salah satu cara yang bisa kalian lakukan agar laptop kalian yang lambat bisa lancar kembali, dan sekali lagi, ini tergantung kepada spesifikasi hardware laptop kalian.
 
 Semoga cara ini bisa membantu 🙂

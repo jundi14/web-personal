@@ -47,7 +47,7 @@ Ada lagi poin yang perlu ditambahkan?
 
 ### Fast Fingers
 
-![](/img/10fastfinger.png)
+![](./10fastfinger.png)
 {{< button href="https://10fastfingers.com" target="_blank" >}}
 10 Fast Fingers
 {{< /button >}}
@@ -58,7 +58,7 @@ Situs ini juga terdapat lencana yang akan kamu dapatkan jika mencapai tingkat te
 
 ### TypeRacer
 
-![](/img/typeracer.png)
+![](./typeracer.png)
 {{< button href="https://play.typeracer.com/" target="_blank" >}}
 Play Typerracer
 {{< /button >}}

@@ -39,13 +39,13 @@ Bagaimana agar bandwidth bisa diatur sedemikian rupa agar internet tidak melamba
 
 Lalu pilih **advanced options**
 
-![](/img/delivery-optimization.png)
+![](./delivery-optimization.png)
 
 ### Pilih percentage of measured bandwidth
 
 Pada opsi ini berfungsi untuk mengatur persentase bandwidth untuk windows update
 
-![](/img/advanced-download-setting.png)
+![](./advanced-download-setting.png)
 
 1. Pada opsi yang pertama yaitu _Limit how much bandwidth is used for downloading updates in background_ yaitu batas maksimal bandwidth yang digunakan saat ada windows update, dan akan terjadi di belakang layar.
    Kita ceklis dan atur berapa persen bandwidth yang ingin kita gunakan untuk proses tersebut.

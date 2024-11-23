@@ -5,9 +5,9 @@ description: Game sederhana tapi tetap menarik dan bikin ketagihan karena berisi
 categories: Teknologi
 summary: Game sederhana tapi bikin ketagihan karena berisi game game menarik yang bisa kamu mainkan diwaktu luang, uniknya bisa dimainkan oleh 2 orang diwaktu bersamaan. Cobain Yuk!
 date: 2024-06-05
-tags: 
-    - games
-aliases: 
+tags:
+  - games
+aliases:
 showComments: true
 showTableOfContents: true
 draft: false
@@ -53,17 +53,17 @@ Barulah di hari kedua dan sampai saat ini iklan pasti ada di hampir setiap seles
 
 Ternyata game ini memunculkan iklan setelah 24 jam kita menginstall game.
 
-Cukup dengan membayar sekitar 28 ribu rupiah kamu bisa membuka game baru yang terkunci dan menghilangkan semua iklan. 
+Cukup dengan membayar sekitar 28 ribu rupiah kamu bisa membuka game baru yang terkunci dan menghilangkan semua iklan.
 
 Harga yang cukup wajar, bahkan relatif murah.
 
 Ditambah lagi kamu bisa mengatur resolusi dan FPS.
 
-![Pembayaran untuk menghilangkan iklan](/img/2-player-games/setting.jpg)
+![Pembayaran untuk menghilangkan iklan](./setting.jpg)
 
 Dibawah ini hasil tangkapan layar beberapa game yang tersedia di **2 Player Games**.
 
-![List 2 Player Games](/img/2-player-games/list-games.jpg)
+![List 2 Player Games](./list-games.jpg)
 
 Ini baru sebagian kecil, masih ada lagi game lainnya yang tidak bisa saya tampilkan disini.
 
@@ -74,6 +74,3 @@ Ada juga game single player yang pilihannya tidak sebanyak game 2 playernya.
 Buat kamu yang ingin mencoba silahkan bisa klik link dibawah ini
 
 {{< button href="https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&hl=en" target="_blank" >}}Download 2 Player Games{{< /button >}}
-
-
-

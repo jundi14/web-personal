@@ -20,7 +20,7 @@ Berikut cara penginstalan sampai aplikasi siap digunakan
 
 - Download aplikasi quran for android di play store, ada banyak aplikasi yang serupa jadi lihatlah ratingnya 4,8 dan telah di download lebih dari 10 juta kali.
 
-  ![](/img/1.jpg)![](/img/2.jpg)
+  ![](./1.jpg)![](./2.jpg)
 
 - Setelah kamu membuka aplikasinya maka akan disarankan untuk mendownload berkas klik saja **YA** ini akan mendownload berkas sekitar 80 mb, ini adalah berkas pendukung termasuk font arab dan belum termasuk terjemahannya.
 
@@ -28,30 +28,30 @@ Berikut cara penginstalan sampai aplikasi siap digunakan
 
 - Bila kamu perlu terjemahan bahasa indonesia atau bahasa lainnya, kamu bisa klik titik 3 diatas kanan dari aplikasi lalu pilih setelah dan scrool kebawah lalu pilih **terjemahan**
 
-  ![](/img/3.jpg)
+  ![](./3.jpg)
 
 - Sebagai opsional kamu bisa mendownload berbagai macam suara dari syaikh terkenal jika kamu menginginkannya. masuk ke setelan lalu pilih pengelola audio dan kamu bisa pilih audio mana yang ingin kamu download
 
-  ![](/img/4.jpg)![](/img/5.jpg)
+  ![](./4.jpg)![](./5.jpg)
 
 ## Pengaturan Lanjutan
 
 - Jika kamu menginginkan quran dengan terjemahan langsung dibagian bawah teks qurannya silahkan klik icon yang saya lingkari
 
-  ![](/img/6.jpg)![](/img/7.jpg)
+  ![](./6.jpg)![](./7.jpg)
 
 - Setelan tampilan:
   **Mode bahasa arab** akan mengaktifkan antarmuka dalam bahasa arab.
   **Latar baru** jika kamu aktifkan opsi ini maka akan menampilkan background putih terang dan jika dinonaktifkan akan menggunakan background kekuningan.
   **Mode malam** jika diaktifkan maka otomatis backround menjadi gelap dengan font terang, bisa juga mengatur kecerahan teks pada toggle bawahnya.
 
-  ![](/img/8.jpg)
+  ![](./8.jpg)
 
 - Setelan pembacaan:
   **Tipe halaman** terdapat 3 tema dalam tampilan quran pilihlah sesuai selera.
   **Tampilkan informasi halaman** ini akan aktif otomatis hilangkan centang untuk menghilangkan informasi halaman seperti nama surat dan nomor juz.
 - Beberapa setelan lain yang bisa kamu pelajari sendiri
 
-  ![](/img/9.jpg)
+  ![](./9.jpg)
 
 Bagaimana pengalamanmu menggunakan aplikasi ini, apakah sesuai dengan ekspektasi ?

@@ -16,14 +16,11 @@ replyByEmail = false
 disableImageOptimization = false
 disableTextInHeader = true
 backgroundImageWidth = 1000
-
 # defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
-# giteaDefaultServer = "https://git.fsfe.org"
-# forgejoDefaultServer = "https://v8.next.forgejo.org"
 [header]
   layout = "fixed-fill-blur" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
@@ -125,10 +122,6 @@ smartTOCHideUnfocusedChildren = false
   # messagingSenderId = "XXXXXX"
   # appId = "XXXXXX"
   # measurementId = "XXXXXX"
-
-[fathomAnalytics]
-  # site = "ABC12345"
-  # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
   # websiteid = "7d6d8e9c-a8da-49dd-a3bc-6bb2e656ea64"

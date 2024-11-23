@@ -24,24 +24,9 @@ Dalam versi free nya pun sudah sangat cukup, apalagi ditambah versi paid (berbay
 
 Buka linknya yang sudah saya sediakan diatas, lalu pilih menu di kanan atas lalu klik sign up untuk daftar lalu isi identitas kalian dan pastikan emailnya aktif untuk keperluan verifikasi, saya rasa kamu sudah sangat paham pada tahapan ini.
 
-![Homepage Carrd.co](/img/screenshot-carrd1.png "Halaman utama carrd.co")
+![Homepage Carrd.co](./screenshot-carrd1.png 'Halaman utama carrd.co')
 
-![Menu pada carrd.co](/img/screenshot-carrd2.png "Menu pada carrd.co")
-
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
+![Menu pada carrd.co](./screenshot-carrd2.png 'Menu pada carrd.co')
 
 ## Pilih template sesuai dengan selera
 
@@ -49,13 +34,13 @@ Ada banyak pilihan template yang bisa kamu gunakan, ada pilihan template untuk p
 
 Pastikan pilih yang bukan **Pro** ya kecuali kamu kepingin coba yang berbayar sebenarnya ngga mahal-mahal amat justru relatif murah hanya 19$/tahun.
 
-![Template carrd.co](/img/screenshot-carrd3.png "Template carrd.co")
+![Template carrd.co](./screenshot-carrd3.png 'Template carrd.co')
 
-Saya beri contoh template yang sederhana saja, setelah kita memilih template maka kita bisa langsung merombak konten di dalamnya. 
+Saya beri contoh template yang sederhana saja, setelah kita memilih template maka kita bisa langsung merombak konten di dalamnya.
 
 Pada screenshot dibawah saya mencoba klik area kanan (kotak hijau) dan pada sisi sebelah kiri kita bisa langsung mengubah isi konten di dalamnya.
 
-![Edit konten carrd.co](/img/screenshot-carrd4.png "Edit konten carrd.co")
+![Edit konten carrd.co](./screenshot-carrd4.png 'Edit konten carrd.co')
 
 Hampir semua yang bisa rubah dari mulai warna background, warna hover (warna saat pointer berada diatas objek) dan icon.
 
@@ -67,23 +52,23 @@ Tapi jika belum punya PC apa boleh buat, gunakan saja perangkat yang ada.🙂
 
 Carrd.co juga mendukung tulisan dalam format markdown yang bisa kamu lihat contohnya pada gambar dibawah ini
 
-![](/img/screenshot-carrd5.png "Mendukung format markdown")
+![](./screenshot-carrd5.png 'Mendukung format markdown')
 
 ## Show preview and publish!
 
-Setelah kamu mengedit, kamu bisa melihat preview saat halaman kamu nanti diakses menggunakan smartphone. 
+Setelah kamu mengedit, kamu bisa melihat preview saat halaman kamu nanti diakses menggunakan smartphone.
 
 Klik icon smarphone maka tampilan akan berubah, menyesuaikan dengan ukuran smartphone pada umumnya.
 
-![Halaman preview](/img/screenshot-carrd6.png "Halaman preview")
+![Halaman preview](./screenshot-carrd6.png 'Halaman preview')
 
 Jangan lupa masukan terlebih dahulu judul dan deskripsi ini memang wajib untuk diisi, agar halaman kamu memiliki judul -pastinya- dan deskripsi dari halamannya.
 
-![Publish carrd.co](/img/screenshot-carrd7.png "Publish")
+![Publish carrd.co](./screenshot-carrd7.png 'Publish')
 
 Isi area kosong di depan [carrd.co](https://try.carrd.co/referraljundi) sesuai selera kamu, ini merupakan link dari halaman yang akan kamu publish.
 
-Saya sarankan jangan terlalu panjang agar mudah dibaca dan diingat. 
+Saya sarankan jangan terlalu panjang agar mudah dibaca dan diingat.
 
 Jika kamu menggunakan layanan berbayar maka kamu bisa menggunakan custom domain.
 
@@ -92,18 +77,3 @@ Ketika kamu sudah yakin maka kamu bisa klik icon **publish**.
 Yeay sekarang halaman kamu sudah live!
 
 Selamat mencoba 😁
-
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>

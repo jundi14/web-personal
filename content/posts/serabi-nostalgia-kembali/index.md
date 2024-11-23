@@ -43,7 +43,7 @@ Saya telah menemukan penjual serabi yang cukup ramai ternyata tidak jauh dari ko
 
 Dan baru-baru ini saya telah menemukan lokasi penjual serabi yang lebih cocok di lidah saya, dan harganya lebih murah Rp500.
 
-![Serabi, Makanan Tradisional Berharga Murah](/img/serabi/serabi_kocor.jpg '*Source: iNews.id/Trisna Purwoko*')
+![Serabi, Makanan Tradisional Berharga Murah](./serabi_kocor.jpg '*Source: iNews.id/Trisna Purwoko*')
 
 Makanan berbahan baku tepung beras ini hampir tidak ada bosannya memang, sejak SD hampir setiap hari saya membeli serabi sehabis sholat shubuh.
 
@@ -55,7 +55,7 @@ Oiya, saya hampir lupa, mungkin diantara kamu ada yang mengira ini serabi manis,
 
 Sebenarnya saya juga sangat suka serabi manis, apalagi waktu budhe membawakan serabi khas solo, serabi notosuman. Serabi ini lebih tipis dan lembut dari serabi asin yang biasa saya beli di sini dan digulung menggunakan daun pisang. Sangat nikmat rasanya, ditambah lagi ada varian topping yang beragam, rasa durian, keju dan lainnya
 
-![Serabi Notosumon](/img/serabi/Serabi-Notosuman.jpg '*Source: Instagram/@srabinotosuman*')
+![Serabi Notosumon](./Serabi-Notosuman.jpg '*Source: Instagram/@srabinotosuman*')
 
 Sayangnya di sini ngga ada yang menjual serabi manis, kalaupun ada pasti saya sering mampir untuk membelinya 😋
 

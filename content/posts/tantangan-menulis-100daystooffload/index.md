@@ -1,12 +1,12 @@
 ---
 title: Memulai Tantangan, Menulis Selama 100 Hari Berturut-turut!
 slug: tantangan menulis 100 artikel
-description: 
+description:
 categories: Coretan
 summary: Dapatkah kamu memposting 100 tulisan dalam 365 hari atau bahkan dalam 100 hari berturut-turut? Sepertinya ini hal yang perlu untuk kamu coba, melawan mitos mental writers block.
 date: 2024-07-21
-tags: 
-    - opini
+tags:
+  - opini
 showComments: true
 showTableOfContents: false
 draft: false
@@ -14,11 +14,11 @@ draft: false
 
 {{< lead >}}Dapatkah kamu memposting 100 tulisan dalam 1 tahun atau bahkan dalam 100 hari berturut-turut?{{< /lead >}}
 
-![100 days to offload](/img/challenge-writing/100days.png)
+![100 days to offload](./challenge-writing/100days.png)
 
-Saya menemukan website [100 days](https://100daystooffload.com), ada tantangan memposting 100 tulisan selama 365 hari/satu tahun dan pada [listed.to](https://listed.to/@Listed/5202/100-day-writing-challenge) memposting 100 tulisan setiap hari berturut-turut. 
+Saya menemukan website [100 days](https://100daystooffload.com), ada tantangan memposting 100 tulisan selama 365 hari/satu tahun dan pada [listed.to](https://listed.to/@Listed/5202/100-day-writing-challenge) memposting 100 tulisan setiap hari berturut-turut.
 
-![100 day writing challenge](/img/challenge-writing/listed.png)
+![100 day writing challenge](./challenge-writing/listed.png)
 
 Saya tertarik sekaligus ragu dengan tantangan ini, karena jika kamu memperhatikan situs ini jumlah tulisannya sangat sedikit, hanya puluhan.
 
@@ -33,13 +33,14 @@ Bisa tentang apa yang dilakukan hari ini, bahkan jika kamu punya peliharaan ceri
 Saya yakin tantangan memposting 100 tulisan ini akan menjadi bermanfaat di kemmudian harinya, entah itu untuk diri sendiri ataupun untuk orang lain, entah itu profit ataupun non-profit.
 
 Kadangkala mitos writer block yang menjadikan kita tidak yakin ingin menulis apa:
-* nulis apa ya ga ada ide..
-* wah tulisanku kok kaya gini..
-* mereka menikmati tulisan ini enak ngga ya..
+
+- nulis apa ya ga ada ide..
+- wah tulisanku kok kaya gini..
+- mereka menikmati tulisan ini enak ngga ya..
 
 Setiap tulisan pasti ada target pembacanya masing-masing, ada yang betah membaca sampai artikel habis, ada juga yang bosan padahal baru membaca beberapa kalimat.
 
-Paling penting buat saya adalah rasa lega karena sudah menuangkan isi pikiran dan hati ke dalam bentuk tulisan. 
+Paling penting buat saya adalah rasa lega karena sudah menuangkan isi pikiran dan hati ke dalam bentuk tulisan.
 
 Mulai hari ini saya akan megikuti tantangan memposting sebanyak 100 tulisan dalam 365 hari, bahkan (semoga saja) memposting 100 tulisan dalam 100 hari berturut-turut.
 
