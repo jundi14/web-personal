@@ -6,24 +6,24 @@
     <description>Recent content in Categories on Jundi Mubarok</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>⚡by [Blowfish](https://blowfish.page). My opinions are my own</copyright>
-    <lastBuildDate>Fri, 22 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Coretan</title>
-      <link>http://localhost:1313/categories/coretan/</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/coretan/</guid>
-      <description></description>
-      
-    </item>
-    
+    <copyright>⚡by[Blowfish](https://blowfish.page). My opinions are my own</copyright>
+    <lastBuildDate>Sun, 03 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teknologi</title>
       <link>http://localhost:1313/categories/teknologi/</link>
       <pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/teknologi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Coretan</title>
+      <link>http://localhost:1313/categories/coretan/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/coretan/</guid>
       <description></description>
       
     </item>

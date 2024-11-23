@@ -9,12 +9,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/rest-area-39/</loc>
-    <lastmod>2024-11-22T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-11-22T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>

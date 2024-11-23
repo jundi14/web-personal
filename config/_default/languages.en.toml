@@ -12,7 +12,7 @@ title = "Jundi Mubarok"
   logo = "img/default-monochrome-white.png"
   secondaryLogo = "img/default-monochrome-black.png"
   description = "Saya suka berbagi cerita tentang pengalaman sehari-hari dan terkadang berbagi tutorial ringan seputar teknologi dan website"
-  copyright = "⚡by [Blowfish](https://blowfish.page). My opinions are my own"
+  copyright = "⚡by[Blowfish](https://blowfish.page). My opinions are my own"
 
 [params.author]
    name = "Jundi"
