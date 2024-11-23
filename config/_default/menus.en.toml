@@ -69,10 +69,12 @@
    name = "Tags"
    pageRef = "tags"
    weight = 10
+
 [[footer]]
    name = "Uses"
    pageRef = "uses"
    weight = 20
+
 [[footer]]
    name = "Privacy"
    pageRef = "privacy"
