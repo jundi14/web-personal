@@ -8,7 +8,7 @@ tags:
   -
 showComments: true
 showTableOfContents: true
-draft: false
+draft: true
 ---
 
 Hal buruk bisa terjadi dimana saja, sebelumnya saya tidak pernah berpikir bahwa rest area merupakan lokasi yang sangat rentan terjadinya pencurian.
