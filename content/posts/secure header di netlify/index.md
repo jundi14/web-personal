@@ -27,7 +27,7 @@ Jika situs statis kamu di deploy menggunakan netlify tambahkan kode dibawah ini 
 
 Pengaturan ini dapat meningkatkan penggunaan header berbasis keamanan di seluruh web.
 
-```
+```bash
 [[headers]]
       for = "/*"
       [headers.values]

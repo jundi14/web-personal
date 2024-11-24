@@ -96,21 +96,6 @@ Lalu buatlah sebuat team, dengan sebuah nama yang kamu sukai.
 
 ---
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
 ## Menginstal Umami
 
 Ya, inilah tahapan inti, yaitu memasang umami.
@@ -183,18 +168,3 @@ Pada website kamu
 Dan sekarang website kamu sudah terpasang analitik dari umami tinggal akses dashboard dan akan terlihat semua statistiknya.😁
 
 Jika masih ada yang kurang dimengerti bisa tanyakan di kolom komentar.
-
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
