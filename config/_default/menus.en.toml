@@ -20,7 +20,12 @@
   pageRef = "about"
   weight = 20
 
-[[main]]
+  [[main]]
+    name = "Contact"
+    pageRef = "contact"
+    weight = 25
+
+  [[main]]
   name = "Support"
   url = "https://saweria.co/jundimubarok"
   weight = 30
