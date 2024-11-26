@@ -6,11 +6,11 @@ summary: Tidak ada patokan pasti untuk jumlah iklan pada sebuah website, tapi te
 categories: Blogging
 date: 2022-12-02
 tags:
-- Iklan
-aliases: "/posts/blogging/berapa-banyak-jumlah-iklan-yang-ideal/"
+  - Iklan
+aliases: '/posts/blogging/berapa-banyak-jumlah-iklan-yang-ideal/'
 showComments: true
-
 ---
+
 Sebenarnya tidak ada patokan pasti untuk jumlah iklan dari sebuah website, tapi yang pasti kita tidak menginginkan jumlah iklan yang _bejibun_ hingga menutupi artikel.
 
 Portal berita online biasanya memiliki iklan yang cukup mengganggu.
@@ -27,21 +27,6 @@ Jadi jawaban untuk pertanyaan, seberapa idealkah jumlah iklan dalam sebuah websi
 
 Jawabannya bisa bervariasi, tergantung dari tingkat kenyamanan mata pembaca.
 
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
 Tapi saya yakin lebih banyak yang merasa risih, karena pada saat menggulir halaman website ternyata masih ada iklan yang masih memuat, alih alih nyaman justru malah sebaliknya, mata lelah karena iklan yang banyak membuat mata kurang fokus terhadap konten.
 
 Sebenarnya sah sah saja admin website memasang banyak iklan, karena sudah memberikan konten yang yang bermanfaat ataupun menghibur. Sudah seharusnya seperti itu.
@@ -57,17 +42,3 @@ Untuk personal website ini saya pasang dua buah iklan saja pada bagian atas arti
 Menurutmu berapakah jumlah iklan yang tepat pada sebuah website?
 
 Tulis di kolom komentar
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
