@@ -11,4 +11,15 @@ showPagination: false
 showTableOfContents: false
 ---
 
+**Halo, Teman-Teman!** 👋
+
+Terima kasih sudah mampir ke sudut kecil internet saya. Kalau kamu punya pertanyaan, saran, atau sekadar ingin menyapa, jangan ragu untuk menghubungi saya. Saya selalu senang menerima pesan dari pembaca! 😊
+
+**Kamu bisa menemukan saya di sini:**\
+📱 **Instagram:** [jundi.mubarok](https://instagram.com/jundi.mubarok)
+
+Atau kalau kamu lebih suka gaya klasik, isi aja form di bawah ini. Saya akan balas secepat saya bisa.
+
+Sampai jumpa di kotak masuk! 😉
+
 <script data-letterbirduser="jundi" src="https://letterbird.co/embed/v1.js"></script>

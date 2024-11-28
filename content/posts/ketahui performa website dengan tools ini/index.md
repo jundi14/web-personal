@@ -66,18 +66,3 @@ Kita menginginkan website yang cepat saat diakses, tapi ada pengecualian jika we
 Karena website akan memuat begitu banyak gambar yang HD (High Definition) sehingga membutuhkan banyak waktu untuk memuat semua gambarnya.
 
 _Soon_ akan saya bahas.
-
-<div>
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
-     crossorigin="anonymous"></script>
-<!-- Iklan horizontal -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="1294831496"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>

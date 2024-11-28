@@ -12,62 +12,66 @@ showTableOfContents: true
 draft: true
 ---
 
-Saat maghrib tiba, sejenak kami mampir ke rest area 39 yang berada di ruas tol Jakarta-Cikampek. Saya memilih di lokasi yang sepi dan tidak banyak mobil yang parkir lebih tepatnya di pinggiran rest area.
-
-2 penumpang avanza sudah beranjak meninggalkan mobil untuk segera sholat maghrib dan isya (dijamak), saya dan 1 teman saya masih di belakang.
+Sepulang dari bekasi, kami mampir sejenak di rest area 39 yang berada di ruas tol Jakarta-Cikampek. Saya memilih di lokasi yang dekat dengan masjid tetapi hanya sedikit mobil yang parkir.
 
 Mobil di parkirkan dekat dengan pintu masuk kurang lebih 20 meter dari pintu, dan di sebelah kiri dan kanan mobil kami tidak ada mobil yang diparkirkan.
 
-sesaat kemudian datanglah toyota calya, yang parkir tepat di sebelah kiri saya
+Toyota avanza yang saya bawa membawa 3 penumpang dan 1 driver(saya sendiri)
 
-_"Lihat nas, itu parkirnya nyerong gtu ya"_ kata saya
+Sebelum saya memarkirkan mobil, toyota calya datang dari arah belakang dan kelihatannya ingin parkir di area sebelah kiri (saya sebelah kanan). Tapi memang terlihat agak aneh karena bukannya langsung mencari area parkir tetapi malah berhenti dibelakang mobil lain yang sedang parkir.
+
+Sesaat kemudian calya tersebut parkir di samping kiri avanza kami yang telah lebih dahulu parkir, 2 penumpang avanza sudah beranjak meninggalkan mobil untuk segera sholat maghrib dan isya (di jamak)
+
+Saya dan 1 penumpang (Anas) bersiap untuk menyusul.
+
+_"Lihat nas, itu parkirnya nyerong gtu ya"_ kata saya sebelum beranjak meninggalkan mobil
 
 _"Eh iya ya..."_
 
-Sambil berjalan ke arah masjid rest area yang berada kurang lebih 20 meter dari mobil kami parkir.
-
-Setelah beberapa meter menjauhi toyota avanza, saya melihat ke arah belakang dan saya agak heran toyota calya yang awalnya ada di sebelah kiri avanza pindah ke sebelah kanannya.
+Sambil berjalan ke arah masjid saya penasaran ingin melihat kebelakang dan saya agak heran toyota calya yang awalnya ada di sebelah kiri mobil kami pindah ke sebelah kanannya.
 
 _"Oh mungkin pengen parkir disitu"_ pikir saya.
 
-Saat itu saya tidak sampai berpikir macam-macam tentang kejadian buruk yang akan terjadi.
+Saat itu saya sama sekali tidak sampai berpikir macam-macam tentang kejadian buruk yang akan terjadi.
 
 Saya melanjutkan melangkahkan kaki ke masjid untuk sholat maghrib dilanjut jamak dengan isya, ya waktu itu sekitar jam 18.00 lebih, entah tepatnya jam berapa.
 
-Setelah sholat selesai kami langsung menuju mobil untuk melanjutkan perjalanan pulang ke cirebon -kami dari arah bekasi.-
+Setelah sholat kami langsung menuju ke mobil untuk melanjutkan perjalanan pulang ke Cirebon.
 
-di tengah perjalanan keluar rest area tidak ada yang aneh dan setelah hampir setengah jam perjalanan sekitar di KM 70-an tiba-tiba..
+Saat keluar rest area tidak ada yang aneh dan setelah hampir setengah jam perjalanan kira-kira sudah di di KM 70-an tiba-tiba...
 
-_"Eh laptop ana dimana yaa...kamera juga ngga ada"_ kata anas
+_"Eh laptop ana dimana yaa...kamera juga ngga ada"_ kata Anas
 
-_"Coba dulu nas cari mungkin nyelip atau ketutupan"_ jawab Ust Kholid
+_"Coba dulu nas cari mungkin nyelip atau ketutupan"_ jawab Kholid
 
 _"Eh serius ust ngga ada"_ panik anas
 
-_"Ke pinggir dulu jun.."_ ucap Ust Kholid
+_"Ke pinggir dulu jun.."_ ucap kholid ke saya
 
 Di bahu tol saya menyalakan lampu hazard sambil menyalakan lampu bagian dalam mobil.
 
-Dan teman saya mulai mencari lebih lanjut, walaupun sudah tahu kalau itu percuma, karena mobil ya ukurannya hnaya segitu-gitunya, sedangkan laptop dan kamera punya ukuran yang cukup besar, pasti sangat mudah mencari dan pasti langsung terlihat, ditambah lagi dimasukkan ke dalam tasnya masing-masing.
+Dan anas mulai mencari lebih lanjut, walaupun sudah tahu kalau itu percuma, karena memang barang disimpan dikursi baris ketiga, sedangkan laptop dan kamera punya ukuran yang cukup besar, pasti langsung terlihat walaupu ngga dicari, ditambah lagi dimasukkan ke dalam tasnya masing-masing.
 
-Pada akhirnya setelah diskusi singkat kami akhirnya memutuskan untuk kembali lagi ke rest area 39, saat itu kami sudah berada di Km 70-an.
+Pada akhirnya setelah diskusi singkat kami akhirnya memutuskan untuk kembali lagi ke rest area 39.
 
-Setelah satu jam akhirnya kami sudah berada di rest area 39 dengan 2 orang teman kami yang sudah menunggu disana.
+Setelah satu jam akhirnya kami sudah berada di rest area 39.
 
-Saya menunggu mobil dan 3 orang teman saya ke ruang security untuk mengecek CCTV yang ada di area tersebut.
+Saya menunggu mobil dan 3 orang teman saya ke ruang security untuk mengecek CCTV yang ada di rest area tersebut.
 
-Setelah melihat rekaman cctv ternyata ada dari pukul 18.20 sampai 18.40 toyota calya nangkring di samping kanan mobil toyota avanza kami, sepertinya mencoba membobol dan mengambil barang yang saya yakin mereka ambil dengan leluasa karena posisinya sangat cocok tidak terpantau CCTV.
+Setelah melihat rekaman cctv ternyata ada dari pukul 18.20 sampai 18.40 toyota calya yang saya curigai memang mereka pelakunya dan nangkring di samping kanan mobil toyota avanza kami.
 
-Posisi CCTV sebelah kiri mobil kami dan memang kondisi disana cukup gelap dan restoran sebagian sudah ada yang tutup.
+1 buah laptop dan 1 buah kamera+lensa tambahan raib.
 
-Saya akan bagikan videonya disini bagaimana sebenarnya sinyal buruk sudah saya rasakan sejak saya masuk rest area 39 ini.
+Posisi CCTV ada di tiang sebelah kiri mobil kami dan memang kondisi disana cukup gelap dan restoran sebagian sudah ada yang tutup.
+
+Ini potongan video dimana hanya terekam sedikit saja
+
+![Video CCTV Pencurian Barang](./video-cctv-restarea39.mp4)
 
 Tetapi sayang beribu sayang, saya kurang peka dan tidak mengambil tindakan dengan segera.
 
-Seandainya saja saya memindahkan mobil kami ketika saya mulai merasakan sinyal buruk ke lokasi yang lebih terang dan ramai, mungkin saja kejadian ini tidak akan menjadi sebuah penyesalan buat kami.
+Seandainya saja saya memindahkan mobil kami ke lokasi yang lebih terang dan ramai, mungkin saja kejadian ini tidak akan terjadi.
 
-Padahal ust kholid sudah berpikir "kok jundi parkirnya disini ya"
+Padahal Kholid sudah berpikir _"kok jundi parkirnya disini ya"_
 
-Tapi ya sudahlah kejadian tersebut menjadi pengalaman buruk dan introspeksi saya sebagai driver untuk lebih berhati-hati lagi dalam memilih lokasi parkir di rest area.
-
-Sekaligus ini menjadi pengingat bagi saya karena bisa jadi hal yang tak terduga buat kita itu bukan berarti tidak mungkin terjadi di dunia nyata.
+Tapi ya sudahlah pengalaman tersebut menjadi introspeksi saya sebagai driver untuk lebih berhati-hati lagi dalam memilih lokasi parkir di rest area.
