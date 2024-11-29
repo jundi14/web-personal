@@ -16,9 +16,11 @@ Sepulang dari bekasi, kami mampir sejenak di rest area 39 yang berada di ruas to
 
 Mobil di parkirkan dekat dengan pintu masuk kurang lebih 20 meter dari pintu, dan di sebelah kiri dan kanan mobil kami tidak ada mobil yang diparkirkan.
 
-Toyota avanza yang saya bawa membawa 3 penumpang dan 1 driver(saya sendiri)
+Toyota avanza yang saya bawa membawa 3 penumpang dan 1 driver (saya)
 
-Sebelum saya memarkirkan mobil, toyota calya datang dari arah belakang dan kelihatannya ingin parkir di area sebelah kiri (saya sebelah kanan). Tapi memang terlihat agak aneh karena bukannya langsung mencari area parkir tetapi malah berhenti dibelakang mobil lain yang sedang parkir.
+Sebelum saya memarkirkan mobil, toyota calya datang dari arah belakang dan kelihatannya ingin parkir di area sebelah kiri (mobil kami sebelah kanan).
+
+Tapi memang terlihat agak mencurigakan karena bukannya langsung mencari area parkir tetapi malah berhenti dibelakang mobil lain yang sedang parkir.
 
 Sesaat kemudian calya tersebut parkir di samping kiri avanza kami yang telah lebih dahulu parkir, 2 penumpang avanza sudah beranjak meninggalkan mobil untuk segera sholat maghrib dan isya (di jamak)
 
@@ -27,6 +29,8 @@ Saya dan 1 penumpang (Anas) bersiap untuk menyusul.
 _"Lihat nas, itu parkirnya nyerong gtu ya"_ kata saya sebelum beranjak meninggalkan mobil
 
 _"Eh iya ya..."_
+
+Ya posisi mobil calya berada diluar garis parkir dan agak menyerong ke kanan.
 
 Sambil berjalan ke arah masjid saya penasaran ingin melihat kebelakang dan saya agak heran toyota calya yang awalnya ada di sebelah kiri mobil kami pindah ke sebelah kanannya.
 
@@ -70,4 +74,4 @@ Seandainya saja saya memarkirkan mobil kami ke lokasi yang lebih terang dan rama
 
 Padahal Kholid sudah berpikir _"kok jundi parkirnya disini ya"_
 
-Tapi ya sudahlah pengalaman tersebut menjadi introspeksi untuk kami, baik saya sebagai driver dan penumpang untuk lebih berhati-hati lagi dalam memilih lokasi parkir di rest area dan saling mengingatkan jika ada sinyal buruk yang ditangkap.
+Tapi ya sudahlah pengalaman tersebut menjadi introspeksi untuk kami, baik saya sebagai driver dan penumpang supaya lebih berhati-hati lagi dalam memilih lokasi parkir di rest area dan saling mengingatkan jika ada sinyal buruk yang ditangkap.
