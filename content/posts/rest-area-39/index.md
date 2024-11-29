@@ -4,12 +4,12 @@ slug: pencurian barang di rest area
 description: Tidak pernah terpikir sebelumnya, ternyata rest area merupakan lokasi yang rentan pencurian.
 categories: Coretan
 summary: Hal buruk bisa terjadi dimana saja, saya tidak pernah berpikir ini akan terjadi begitu saja, pencurian barang berharga di dalam mobil yang bahkan saya melihat mobil si pelakunya.
-date: 2024-11-23
+date: 2024-11-28
 tags:
   -
 showComments: true
 showTableOfContents: true
-draft: true
+draft: false
 ---
 
 Sepulang dari bekasi, kami mampir sejenak di rest area 39 yang berada di ruas tol Jakarta-Cikampek. Saya memilih di lokasi yang dekat dengan masjid tetapi hanya sedikit mobil yang parkir.
@@ -62,16 +62,12 @@ Setelah melihat rekaman cctv ternyata ada dari pukul 18.20 sampai 18.40 toyota c
 
 1 buah laptop dan 1 buah kamera+lensa tambahan raib.
 
-Posisi CCTV ada di tiang sebelah kiri mobil kami dan memang kondisi disana cukup gelap dan restoran sebagian sudah ada yang tutup.
-
-Ini potongan video dimana hanya terekam sedikit saja
-
-![Video CCTV Pencurian Barang](./video-cctv-restarea39.mp4)
+Posisi CCTV ada di tiang sebelah kiri mobil kami dan memang kondisi disana kurang begitu terang dan restoran sebagian sudah ada yang tutup.
 
 Tetapi sayang beribu sayang, saya kurang peka dan tidak mengambil tindakan dengan segera.
 
-Seandainya saja saya memindahkan mobil kami ke lokasi yang lebih terang dan ramai, mungkin saja kejadian ini tidak akan terjadi.
+Seandainya saja saya memarkirkan mobil kami ke lokasi yang lebih terang dan ramai, mungkin saja kejadian ini tidak akan terjadi.
 
 Padahal Kholid sudah berpikir _"kok jundi parkirnya disini ya"_
 
-Tapi ya sudahlah pengalaman tersebut menjadi introspeksi saya sebagai driver untuk lebih berhati-hati lagi dalam memilih lokasi parkir di rest area.
+Tapi ya sudahlah pengalaman tersebut menjadi introspeksi untuk kami, baik saya sebagai driver dan penumpang untuk lebih berhati-hati lagi dalam memilih lokasi parkir di rest area dan saling mengingatkan jika ada sinyal buruk yang ditangkap.
