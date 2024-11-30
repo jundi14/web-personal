@@ -16,7 +16,9 @@ showTableOfContents: false
 Terima kasih sudah mampir ke sudut kecil internet saya. Kalau kamu punya pertanyaan, saran, atau sekadar ingin menyapa, jangan ragu untuk menghubungi saya. Saya selalu senang menerima pesan dari pembaca! 😊
 
 **Kamu bisa menemukan saya di sini:**\
-📱 **Instagram:** [jundi.mubarok](https://instagram.com/jundi.mubarok)
+{{<alert "instagram">}}
+Hubungi saya di [Instagram](https://instagram.com/jundi.mubarok)
+{{</alert>}}
 
 Atau kalau kamu lebih suka gaya klasik, isi aja form di bawah ini. Saya akan balas secepat saya bisa.
 
