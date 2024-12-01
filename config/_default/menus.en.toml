@@ -20,16 +20,10 @@
   pageRef = "about"
   weight = 20
 
-  [[main]]
-    name = "Contact"
-    pageRef = "contact"
-    weight = 25
-
-  [[main]]
+[[main]]
   name = "Support"
   url = "https://saweria.co/jundimubarok"
   weight = 30
-
 [[main]]
   name = "Categories"
   pageRef = "categories"
@@ -79,6 +73,11 @@
    name = "Uses"
    pageRef = "uses"
    weight = 20
+
+[[footer]]
+   name = "Contact"
+   pageRef = "contact"
+   weight = 25
 
 [[footer]]
    name = "Privacy"
