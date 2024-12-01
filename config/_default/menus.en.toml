@@ -77,9 +77,9 @@
 [[footer]]
    name = "Contact"
    pageRef = "contact"
-   weight = 25
+   weight = 30
 
 [[footer]]
    name = "Privacy"
    pageRef = "privacy"
-   weight = 30
+   weight = 25
