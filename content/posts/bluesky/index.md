@@ -9,7 +9,7 @@ tags:
   -
 showComments: true
 showTableOfContents: false
-draft: false
+draft: true
 ---
 
 Bluesky memiliki tampilan yang sangat mirip dengan twitter/X apalagi dengan warna yang khas biru menjadikannya hampir tak ada bedanya dengan tampilan si burung biru.
