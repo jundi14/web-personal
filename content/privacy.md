@@ -20,17 +20,9 @@ Saya menggunakan aplikasi berikut ini untuk mengaplikasikan fitur berkaitan tent
 
 Situs ini di-host oleh Netlify. Kamu dapat membaca tentang kebijakan privasi mereka [disini](https://www.netlify.com/privacy/ 'Netlify Privasi')
 
-#### Umami
+#### PencilBooth
 
-Saya menggunakan layanan analitik dari [Umami](https://umami.is) untuk mendapatkan analitik dasar tentang pengunjung situs ini.
-
-Umami tidak mengumpulkan informasi identitas pribadi apa pun dan menganonimkan semua data yang dikumpulkan. Pengguna tidak dapat diidentifikasi dan tidak pernah dilacak di seluruh situs web.
-
-#### Vercel
-
-Saya menggunakan vercel sebagai infrastruktur awan untuk menjalankan layanan analitik dari umami.
-
-Kamu dapat membaca tentang informasi apa yang mereka kumpulkan dari pengguna [disini](https://vercel.com/legal/privacy-policy#information-we-collect 'Informasi yang dikumpulkan oleh vercel')
+Saya menggunakan layanan pencil booth untuk mengumpulkan email bagi mereka yang ingin menjadi pelanggan website ini, kamu dapat membaca kebijakan privasi mereka [disini](https://pencilbooth.com/privacy) 
 
 #### Disquss
 
