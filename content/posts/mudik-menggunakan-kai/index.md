@@ -1,5 +1,5 @@
 ---
-title: Cerita Mudik Menggunakan Transportasi Publik KAI
+title: Mudik Menggunakan Transportasi Publik KAI
 slug: mudik menggunakan kereta
 description: 
 categories: Coretan
