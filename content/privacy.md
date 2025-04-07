@@ -8,6 +8,7 @@ showAuthor: false
 sharingLinks: false
 showPagination: false
 showTableOfContents: false
+showComments: false
 ---
 
 ## Kebijakan Privasi Situs jundi.web.id

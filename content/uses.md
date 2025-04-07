@@ -8,6 +8,7 @@ showDate: false
 showAuthor: false
 showPagination: false
 showTableOfContents: false
+showComments: false
 ---
 
 Hal-hal yang saya gunakan sehari-hari:
