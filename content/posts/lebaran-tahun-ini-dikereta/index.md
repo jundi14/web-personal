@@ -10,7 +10,7 @@ tags:
 draft: false
 ---
 
-Mudik tepat di hari lebaran/tanggal 1 syawal 1446 -31 Maret 2025- bukanlah hal yang ingin saya lakukan, tapi ada alasan sehingga saya terpaksa mengambil di tanggal tersebut.
+Mudik tepat di hari lebaran, tanggal 1 syawal 1446 -31 Maret 2025- bukanlah hal yang ingin saya lakukan, tapi ada alasan sehingga saya terpaksa mengambil di tanggal tersebut.
 
 **Pertama**, tiket masih tersedia cukup banyak di hari itu sehingga sangat mudah untuk mendapatkan tanpa harus *'War Tickets'*, yakan? 
 
