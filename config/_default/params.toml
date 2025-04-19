@@ -91,7 +91,7 @@ smartTOCHideUnfocusedChildren = false
   cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
-
+  
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
 
