@@ -11,7 +11,7 @@ showTableOfContents: true
 draft: false
 ---
 
-Saat ini saya menggunakan website statis dari hugo dan tidaklah semudah ketika ingin menambahkan form kontak supaya seseorang bisa dengan mudah menghubungi saya via email, karena pada hugo tidak ada plugin seperti wordpress yang bisa dengan menambahkankan form kontak.
+Saat ini saya menggunakan website statis dari hugo dan tidaklah semudah ketika ingin menambahkan form kontak supaya seseorang bisa dengan mudah menghubungi saya via email, karena pada hugo tidak ada plugin seperti wordpress yang bisa dengan menambahkan form kontak.
 
 Akhirnya secara tidak sengaja saya menemukan aplikasi form kontak ketika saya sedang berselancar di blog bule, dengan tampilan yang simpel dan tidak banyak fitur gimmick yang _useless_.
 
