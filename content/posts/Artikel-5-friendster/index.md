@@ -3,7 +3,6 @@ title: Nostalgia Media Sosial Generasi 90-an, Friendster Comeback?
 slug: friendster kembali hadir
 description: Media sosial friendster kembali lagi setelah lama ditinggalkan, akankah friendster bisa menyaingi kepopuleran media sosial lain yang saat sudah digunakan oleh puluhan juta orang?
 categories: Teknologi
-summary: Media sosial friendster kembali lagi setelah lama ditinggalkan, akankah friendster bisa menyaingi kepopuleran media sosial lain yang saat sudah digunakan oleh puluhan juta orang?
 date: 2024-10-10
 tags:
   - media sosial

@@ -1,10 +1,7 @@
 ---
 title: Mengapa Aku Belum Menikah
 slug: mengapa aku belum menikah
-description:
-  Bukan karena tak ada calonnya, tapi entahlah pertanyaan itu belum bertemu
-  jawabannya
-summary: Sekalimat tanya yang sering kutunjukkan pada diriku sendiri. Aku sama sekali tidak bermaksud menunda, apalagi tidak yakin akan jaminan dari Allah. Pun bukan karena tak ada calonnya.
+description: Bukan karena tak ada calonnya, tapi entahlah pertanyaan itu belum bertemu jawabannya
 categories: Coretan
 date: 2021-11-29
 showComments: true

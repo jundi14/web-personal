@@ -3,7 +3,6 @@ title: Penggunaan Lampu Jauh, Antara Arogan Dan Bijak
 slug: penggunaan lampu jauh antara arogan dan bijak
 aliases: '/posts/coretan/penggunaan-lampu-jauh-antara-arogan-dan-bijak/'
 description: Kearoganan si paling high beam
-summary: Penggunaan lampu jauh (high beam) tak beda tipis dengan kearoganan pengguna knalpot _treng teng teng_ di jalanan, yang _mblayer_ gas motornya hingga suara knalpotnya memekakkan telinga.
 categories: Coretan
 date: 2022-11-24
 showComments: true

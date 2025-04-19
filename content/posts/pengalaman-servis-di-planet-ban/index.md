@@ -2,7 +2,6 @@
 title: Pengalaman Pertama Servis Motor di Planet Ban
 slug: servis-motor-di-planet-ban
 categories: Coretan
-summary: Saya join dengan komunitas blogger, sebagian blogger kompak membuat tulisan tentang servis motor di planet ban, membuat saya penasaran apakah servis di planet ban akan memuaskan.
 description: Pengalaman pertama servis motor di planet ban, apakah lebih baik dibandingkan servis di bengkel resmi?
 date: 2023-10-28
 tags:

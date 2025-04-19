@@ -3,7 +3,6 @@ title: Berkendara Online, Rasakan Sensasi Jalan-jalan ke Mancanegara Secara Virt
 slug: menikmati jalan-jalan secara virtual
 description: Saat keuangan tidak mencukupi untuk bepergian ke berbagai negara, aplikasi ini membantu kamu untuk menikmati indahnya jalanan di berbagai kota di mancanegara.
 categories: Teknologi
-summary: Ada banyak travel vlogger yang suka membagikan momen ketika bepergian ke mancanegara. Walau keuangan tidak mendukung kita tetap bisa kok jalan-jalan, walaupun secara virtual.
 date: 2023-08-26
 tags:
   - virtual

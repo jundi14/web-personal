@@ -3,7 +3,6 @@ title: Mencoba Ban Secara Virtual Menggunakan Aplikasi
 slug: mencoba ban secara virtual
 description: 
 categories: Teknologi
-summary: 
 date: 2024-02-12
 tags: 
     -

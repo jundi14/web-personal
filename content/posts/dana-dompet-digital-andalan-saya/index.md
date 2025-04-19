@@ -3,7 +3,6 @@ title: DANA, Dompet Digital Yang Sering Saya Gunakan
 slug: dompet-digital-pilihanku
 description: Dompet digital menjadi sebuah keharusan di era digital ini, sebuah opsi transaksi yang hampir wajib di setiap lini kehidupan kita.
 categories: Teknologi
-summary: Dari sekian banyak e-wallet, **DANA** menjadi e-wallet pilihan saya untuk bertransaksi online, menghemat beberapa ribu rupiah karena hampir tidak ada biaya admin saat top up dan transfer.
 date: 2024-05-26
 tags:
   - opini

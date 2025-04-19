@@ -2,7 +2,6 @@
 title: 7 Cara Mudah Mengatasi Laptop Yang Lambat, Dijamin Berhasil !
 slug: mengatasi laptop lemot
 description:
-summary: Laptop semakin banyak digunakan dalam berbagai kegiatan seperti belajar online maupun pekerjaan lainnya. Laptop memiliki bentuk yang ringkas sehingga mudah dibawa kemana-mana.
 categories: Teknologi
 date: 2021-11-24
 tags:

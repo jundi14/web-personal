@@ -3,7 +3,6 @@ title: Lebaran Tahun Ini Di Kereta Api
 slug: lebaran di kereta
 description: 
 categories: Coretan
-summary: Mudik tepat di tanggal hari pertama lebaran bukan hal yang ingin saya lakukan, tapi ada alasan sehingga saya terpaksa mengambil di tanggal tersebut. Salah satunya tidak perlu war ticket.    
 date: 2025-04-06
 tags:
   -

@@ -3,7 +3,6 @@ title: Adat Tiap Tempat Berbeda-beda, Tapi Kenapa Seaneh Ini?
 slug: adat di berbagai tempat
 description: 
 categories: Coretan 
-summary: Ada hal yang musti kita perhatikan saat berpindah dari tempat satu ke tempat yang lain, negatif dan positifnya pastilah ada. sebut saja yang paling sering terjadinya perbedaan adalah. Adat.
 date: 2024-08-01
 tags: 
     - 

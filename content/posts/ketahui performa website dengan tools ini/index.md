@@ -2,7 +2,6 @@
 title: Ketahui Performa Website Dengan 4 Tools Ini
 slug: cek performa website
 description: Mengetahui kecepatan website dengan tools berikut
-summary: Blog harus memiliki tampilan menarik dan konten berbobot agar pembaca betah berlama-lama untuk terus membaca blog. Tapi jika website lambat saat diakses itu menjadi sebuah masalah.
 categories: Teknologi
 date: 2022-11-16
 aliases: '/posts/teknologi/cek-performa-website/'

@@ -2,7 +2,6 @@
 title: 3 Fitur Seru dan 7 Kelebihan Telegram Dibandingkan Whatsapp
 slug: kelebihan telegram dibandingkan whatsapp
 description: Kelebihan telegram dibandingkan whatsapp yang perlu kamu ketahui
-summary: Saya akan menyebutkan beberapa fitur dan kelebihan telegram dibandingkan whatsapp, yang membuatmu berpikir lagi untuk menggunakan telegram sebagai aplikasi pesan instan favorit.
 categories: Teknologi
 date: 2021-11-21
 tags:

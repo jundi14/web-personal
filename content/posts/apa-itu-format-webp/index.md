@@ -2,8 +2,7 @@
 title: Apa Itu WebP? Format Gambar Yang Efisien Untuk Website
 slug: apa itu webp
 description: Format WebP pada gambar menjadi alternatif untuk gambar di sebuah website, karena format webp memliki kompresi gambar yang cukup baik dan tetap mempertahankan kualitas gambar.
-categories: 'Blogging'
-summary: Format WebP pada gambar menjadi alternatif untuk gambar di sebuah website, karena format webp memliki kompresi gambar yang cukup baik dan tetap mempertahankan kualitas gambar.
+categories: Blogging
 date: 2023-11-14
 tags:
   - format

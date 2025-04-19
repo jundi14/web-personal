@@ -3,8 +3,6 @@ title: Prediksi Tahun 2050, Inilah Kondisi Kota Dari Seluruh Dunia di Masa Depan
 slug: prediksi kota masa depan
 description: Website yang membuat prediksi masa depan bumi pada tahun 2030-2050, bagaimanakah penampakannya?
 categories: Teknologi
-summary: Bagaimanakah ilustrasi kota-kota besar seluruh dunia di masa yang akan datang, Penasaran bagaimana kondisinya? Inilah website yang memprediksi kota di berbagai belahan dunia.
-date: 2023-09-17
 tags:
   - prediksi
 showComments: true

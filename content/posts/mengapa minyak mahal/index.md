@@ -1,10 +1,7 @@
 ---
 title: Mengapa Minyak Goreng Mahal?
 slug: mengapa minyak goreng mahal
-description:
-  Minyak goreng adalah kebutuhan pokok bagi sebagian besar rakyat indonesia,
-  tetapi mengapa minyak sangat mahal padahal negeri ini mempunyai kebun sawit terbesar
-summary: Berpekan-pekan krisis minyak goreng melanda Indonesia sehingga memukul rumah tangga dan para pengusaha kecil. Banyak yang mengantri dan berebut mendapatkan minyak goreng.
+description: Minyak goreng adalah kebutuhan pokok bagi sebagian besar rakyat indonesia, tetapi mengapa minyak sangat mahal padahal negeri ini mempunyai kebun sawit terbesar
 categories: Coretan
 date: 2022-04-09
 showComments: true

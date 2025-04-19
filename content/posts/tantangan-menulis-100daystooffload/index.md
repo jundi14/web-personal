@@ -3,7 +3,6 @@ title: Memulai Tantangan, Menulis Selama 100 Hari Berturut-turut!
 slug: tantangan menulis 100 artikel
 description:
 categories: Coretan
-summary: Dapatkah kamu memposting 100 tulisan dalam 365 hari atau bahkan dalam 100 hari berturut-turut? Sepertinya ini hal yang perlu untuk kamu coba, melawan mitos mental writers block.
 date: 2024-07-21
 tags:
   - opini

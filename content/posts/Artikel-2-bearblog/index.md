@@ -3,7 +3,6 @@ title: Bearblog, Platform Blogging Yang Sedang Nge-trend
 slug: platform blogging bearblog
 description:
 categories: Blogging
-summary: Saat ini banyak layanan yang memudahkan kita untuk membuat website dan blog, salah satunya wordpress dan blogspot yang banyak digunakan untuk berbagai macam keperluan.
 date: 2024-07-22
 tags:
   -

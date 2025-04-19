@@ -3,7 +3,6 @@ title: 2 Player Games, Kumpulan Game Buat Mengisi Waktu Luang Kamu
 slug: games-android-ringan
 description: Game sederhana tapi tetap menarik dan bikin ketagihan karena berisi kumpulan game game menarik yang bisa kamu mainkan diwaktu luang kamu
 categories: Teknologi
-summary: Game sederhana tapi bikin ketagihan karena berisi game game menarik yang bisa kamu mainkan diwaktu luang, uniknya bisa dimainkan oleh 2 orang diwaktu bersamaan. Cobain Yuk!
 date: 2024-06-05
 tags:
   - games

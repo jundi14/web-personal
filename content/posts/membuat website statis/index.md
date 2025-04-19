@@ -1,11 +1,8 @@
 ---
 title: Kelebihan dan Kekurangan Menggunakan Website Statis
 slug: Kelebihan dan Kekurangan Menggunakan Website Statis
-description:
-  Setelah sekian lama menggunakan website dinamis akhirnya beralih ke website
-  statis juga
+description: Setelah sekian lama menggunakan website dinamis akhirnya beralih ke website statis juga
 categories: Blogging
-summary: Beberapa tahun lalu saya menggunakan wordpress untuk membuat blog dan rela membayar tema yang premium. Tapi pada suatu hari saya penasaran ingin rasanya mencoba website statis.
 date: 2023-04-07
 tags:
   - static

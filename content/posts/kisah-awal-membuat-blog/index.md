@@ -3,7 +3,6 @@ title: Cerita Saat Saya Membuat Blog Untuk Pertama Kalinya
 slug: membuat-blog
 description: Saat pertama kali ingin membuat website pilihan ada pada blogspot dan wordpress, dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas banyak.
 categories: Coretan
-summary: Pemula pasti akan memilih antara blogspot dan wordpress, dengan alasan kemudahan karena tutorial bertebaran di internet dan support yang bagus serta komunitas yang tidak sedikit.
 date: 2024-06-11
 tags:
   - static

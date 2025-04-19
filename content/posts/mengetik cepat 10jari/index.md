@@ -2,7 +2,6 @@
 title: Mengetik Cepat 10 Jari, Kamu Harus Menguasainya!
 slug: mengetik cepat
 description: Bukan sekedar keren tapi bisa membantu pekerjaan
-summary: Saya mempunyai target, yaitu mengetik cepat dengan menggunakan 10 jari! Saya berpikir, "Ah apakah mungkin saya bisa mengetik cepat". Mindset yang negatif dan mempengaruhi sugesti.
 categories: Coretan
 date: 2021-11-26
 showComments: true

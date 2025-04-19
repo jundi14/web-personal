@@ -2,7 +2,6 @@
 title: 9 Hal yang Dilakukan Oleh Santri
 slug: 9 Hal yang Dilakukan Oleh Santri
 description: Hal hal yang saya alami selama menjadi santri
-summary: Hai kawan, bagaimana kabar kalian? semoga dalam keadaan baik yaa…Saya mau membagikan pengalaman yang -semoga saja- menarik selama menjadi santri, apa kalian juga pernah nyantri?
 categories: Coretan
 date: 2021-12-01
 tags:

@@ -3,7 +3,6 @@ title: Kontrakan Saat Ini. Dingin!
 slug: kontrakan saat ini
 aliases: "/posts/coretan/kontrakan-saat-ini/"
 description: '"Cocok untuk pensiunan" ujar orangtua saya'
-summary: Hampir empat bulan saya tinggal di kontrakan yang letaknya tidak begitu jauh dari pos pendakian gunung ciremai. Dingin yang menusuk ke tulang saat melewati area wisata J&J
 categories: Coretan
 date: 2022-11-21
 tags:

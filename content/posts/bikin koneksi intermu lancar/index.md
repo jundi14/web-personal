@@ -2,7 +2,6 @@
 title: Bikin Koneksi Internetmu Lancar Dengan Mengurangi Bandwidth Windows Update
 slug: cara untuk mengatur bandwidth windows
 description: Cara untuk mengatur bandwidth windows
-summary: Kamu mungkin pernah merasakan komputer sedikit lemot karena terkoneksi dengan internet. Bisa jadi memang koneksinya lemah atau banyak user yang terhubung jika menggunakan WiFi.
 categories: Teknologi
 date: 2021-11-25
 tags:

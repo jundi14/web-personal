@@ -1,8 +1,7 @@
 ---
 title: Pilihan Menarik, Website Statik
 slug: migrasi ke hugo
-description: 'Pilihan buat kamu yang ingin membuat website '
-summary: Beberapa waktu lalu saya menggunakan wordpress untuk membuat blog, menggunakan hosting dan yang pasti domain juga. Saya jarang update artikel tetapi tetap membayar layanan hosting.
+description: Pilihan buat kamu yang ingin membuat website
 categories: Teknologi
 date: 2022-01-04
 tags:

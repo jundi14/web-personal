@@ -3,7 +3,6 @@ title: Pencilbooth, Layanan Email Newsletter Sederhana Tapi Tetap Customable
 slug: pencilbooth email newsletter
 description:
 categories: Teknologi
-summary: Saya menemukan aplikasi email newsletter yang cukup sederhana tetapi mudah untuk dicustom dan menarik untuk dicoba, sepertinya belum banyak orang yang menggunakannya.
 date: 2024-11-02
 tags:
   - email

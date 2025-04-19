@@ -1,10 +1,7 @@
 ---
 title: Kesalahan Yang Saya Lakukan Saat Membuat Blog
 slug: kesalahan saat membuat blog
-description:
-  Kesalahan yang saya lakukan saat memiliki blog jangan sampai kamu melakukannya
-  juga
-summary: Saat ini menulis menjadi cara untuk sekedar curhat atau bahkan menjadi hal yang sangat berguna untuk orang lain. Tetapi para blogger pemula seringkali melakukan kesalahan berikut.
+description: Kesalahan yang saya lakukan saat memiliki blog jangan sampai kamu melakukannya juga
 categories: Blogging
 date: 2023-02-04
 showComments: true

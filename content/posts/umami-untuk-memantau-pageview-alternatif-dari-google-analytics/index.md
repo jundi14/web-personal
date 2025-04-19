@@ -3,7 +3,6 @@ title: Umami, Alternatif dari Google Analitik yang Lebih Cepat dan Sederhana
 slug: Umami Alternatif dari Google Analitik
 description: Umami, alternatif google analitik yang sederhana, lebih ringan dan cepat serta tidak membebani server karena size yang lebih kecil.
 categories: Blogging
-summary: Menu pada google analitik jarang sekali digunakan dan agak membebani server, ada alternatif penggantinya yaitu Umami, lebih ringan, cepat, sederhana dan mengurangi beban server.
 date: 2023-08-24
 tags:
   - analitik

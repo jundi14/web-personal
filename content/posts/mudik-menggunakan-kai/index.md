@@ -3,7 +3,6 @@ title: Mudik Menggunakan Transportasi Publik KAI
 slug: mudik menggunakan kereta
 description: 
 categories: Coretan
-summary: Bisa mendapatkan tiket kereta api murah disaat liburan ramadhan bukanlah hal yang mudah, apalagi dengan harga tiket dibawah 100 ribu rupiah seperti KA Airlangga dan KA Bengawan.
 date: 2025-03-17
 tags:
   - mudik

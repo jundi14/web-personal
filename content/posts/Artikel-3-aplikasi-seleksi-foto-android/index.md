@@ -3,7 +3,6 @@ title: Sponge, Aplikasi Buat Storage Smartphone Kamu Yang Sudah Membengkak
 slug: aplikasi-pembersih-memori-android
 description: Aplikasi yang beberapa hari lalu saya temukan di playstore yang ternyata sangat berguna buat smartphone saya yang cukup sering mendapatkan notifikasi **memori penyimpanan penuh**.
 categories: Teknologi
-summary: Aplikasi yang beberapa hari lalu saya temukan di playstore yang ternyata sangat berguna buat smartphone saya yang cukup sering mendapatkan notifikasi **memori penyimpanan penuh**.
 date: 2024-07-25
 tags:
   - android

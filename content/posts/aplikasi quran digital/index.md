@@ -2,7 +2,6 @@
 title: Aplikasi Qur’an Digital Terbaik di Android
 slug: aplikasi qur’an digital terbaik di android
 description: Quran digital terbaik android dengan rosm utsmani
-summary: Kalian sedang merasakan bagaimana hidup di generasi yang semuanya serba digital, semua yang biasanya diakses secara langsung, saat ini bisa diakses digital hampir di seluruh aspek.
 categories: Teknologi
 date: 2021-11-22
 aliases: '/posts/teknologi/aplikasi-qur’an-digital-terbaik-di-android/'

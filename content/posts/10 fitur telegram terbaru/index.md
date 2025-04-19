@@ -2,7 +2,6 @@
 title: Sangat Membantu! Inilah 10 Fitur Telegram Yang Sangat Menarik
 slug: fitur telegram
 description: Fitur-fitur telegram yang sangat menarik
-summary: Telegram adalah aplikasi pesan instan yang merupakan rival Whatsapp. Walaupun usia telegram masih terbilang muda dibandingkan dengan whatsapp, tapi fitur di telegram ini sangat menarik.
 categories: Teknologi
 date: 2021-11-23
 tags:

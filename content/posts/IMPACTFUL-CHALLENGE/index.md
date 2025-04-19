@@ -3,7 +3,6 @@ title: Pola Pikir Akan Negatif Jika Kamu Belum Melakukan 3 Tips Ini
 slug: cara-memperbaiki-pola-pikir
 description: 
 categories: Coretan
-summary: Dalam melakukan kegiatan, pola pikir akan mempengaruhi kesehatan mental sehingga menjadi penting di setiap lini kehidupan kita, menentukkan pula apa yang akan kita lakukan berikutnya.
 date: 2024-06-02
 tags: 
     - opini

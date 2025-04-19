@@ -2,7 +2,6 @@
 title: Awal Perjuangan Bukalapak
 slug: awal perjuangan bukalapak
 categories: Teknologi
-summary: Sukses yang diraih CEO Bukalapak, Achmad Zaky, tidak datang serta-merta. Setidaknya ada 3 hal yang telah mengubah hidupnya. Dia memaparkan dalam kuliah umum di depan mahasiswa.
 date: 2021-12-03
 tags:
   - bukalapak

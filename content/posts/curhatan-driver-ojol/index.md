@@ -3,7 +3,6 @@ title: Curhatan Driver Ojol 'Senior' Tapi Junior
 slug: Curhatan Driver Ojol
 description: 
 categories: Coretan
-summary: Sekian lama aplikasi akun ojol ini mangkrak selama hampir 3 tahun lamanya dan hanya diaktifkan beberapa saat agar tidak di banned oleh pihak grab karena terlalu lama offline.
 date: 2024-03-04
 tags: 
     -

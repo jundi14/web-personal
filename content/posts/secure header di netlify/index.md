@@ -1,10 +1,7 @@
 ---
 title: Secure Header di Netlify
 slug: Secure Header di Netlify
-description:
-  Memberikan tingkat perlindungan yang besar dan penting bagi situs untuk
-  menerapkannya
-summary: HTTP security header adalah bagian dari header, berfungsi melindungi website dari resiko seperti clickjacking, cross-site scripting, brute force, dan sebagainya. Apa itu Security header?
+description: Memberikan tingkat perlindungan yang besar dan penting bagi situs untuk menerapkannya
 categories: Blogging
 date: 2022-12-18
 tags:

@@ -3,7 +3,6 @@ title: Sinyal Buruk Toyota Calya Di Rest Area Kilometer 39
 slug: pencurian barang di rest area
 description: Tidak pernah terpikir sebelumnya, ternyata rest area merupakan lokasi yang rentan pencurian.
 categories: Coretan
-summary: Hal buruk bisa terjadi dimana saja, saya tidak pernah berpikir ini akan terjadi begitu saja, pencurian barang berharga di dalam mobil yang bahkan saya melihat mobil si pelakunya.
 date: 2024-11-28
 tags:
   -

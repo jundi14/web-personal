@@ -2,7 +2,6 @@
 title: Kontrakan Pindah, Tantangan Baru
 slug: Kontrakan Pindah, Tantangan Baru
 description: Kontrakan pindah!
-summary: 7 bulan lalu, awal mengontrak di bojong, tempatnya cukup strategis dan lokasinya cukup dekat dengan Alfamart karena saya sering kesana untuk kebutuhan top up, tarik saldo dan lain-lain.
 categories: Coretan
 date: 2022-09-18
 tags:
