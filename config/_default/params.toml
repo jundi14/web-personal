@@ -50,7 +50,7 @@ smartTOCHideUnfocusedChildren = false
   showDateOnlyInArticle = false
   showDateUpdated = false
   showAuthor = true
-  # showAuthorBottom = false
+  #showAuthorBottom = false
   showHero = true
   heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
@@ -91,7 +91,7 @@ smartTOCHideUnfocusedChildren = false
   cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
-  
+
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
 
@@ -116,15 +116,6 @@ smartTOCHideUnfocusedChildren = false
   cardView = true
   cardViewScreenWidth = false
 
-[firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
-
 [umamiAnalytics]
   # websiteid = "7d6d8e9c-a8da-49dd-a3bc-6bb2e656ea64"
   # domain = "jundi.web.id"
@@ -135,17 +126,3 @@ smartTOCHideUnfocusedChildren = false
 [selineAnalytics]
   # token = "XXXXXX"
   # enableTrackEvent = true
-
-[buymeacoffee]
-  # identifier = ""
-  # globalWidget = true
-  # globalWidgetMessage = "Hello"
-  # globalWidgetColor = "#FFDD00"
-  # globalWidgetPosition = "Right"
-
-[verification]
-  # google = ""
-  # bing = ""
-  # pinterest = ""
-  # yandex = ""
-  # fediverse = ""
