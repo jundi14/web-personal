@@ -24,3 +24,4 @@ Hanya tersedia tiket yang mahal jika mengambil jadwal setelah lebaran atau sebel
 Jadi, saya izin 2 hari ngga ikut jaga di pondok pesantren.
 
 Seenggaknya masih sempet ikut andil jaga pondok beberapa hari 🙂.
+
