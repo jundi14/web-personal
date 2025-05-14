@@ -58,30 +58,11 @@ Dukung saya di [Saweria](https://saweria.co/jundimubarok)
 Salam hangat,\
 **Jundi**
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>I'M Certified Impactful Writer</title>
-    <style>
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <a>
-        <img src="https://www.impactfulwriting.com/wp-content/uploads/2024/05/CIW.png" alt="Certified Impactful Writer">
-    </a>
-</body>
-</html>
-
 ---
-
-<a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a>
+[![CO₂ Shield](https://img.shields.io/badge/CO₂-A_0.10g-20AE69)](https://overbrowsing.com/projects/co2-shield)
 
 ![](./Written-By-Human-Not-By-AI-Badge-white.svg)
 
-<p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p>
+<center><a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a></center>
+
+<center><p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p></center>
