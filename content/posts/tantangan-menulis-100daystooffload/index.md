@@ -13,11 +13,11 @@ draft: false
 
 {{< lead >}}Dapatkah kamu memposting 100 tulisan dalam 1 tahun atau bahkan dalam 100 hari berturut-turut?{{< /lead >}}
 
-![100 days to offload](./challenge-writing/100days.png)
+![100 days to offload](./100days.png)
 
 Saya menemukan website [100 days](https://100daystooffload.com), ada tantangan memposting 100 tulisan selama 365 hari/satu tahun dan pada [listed.to](https://listed.to/@Listed/5202/100-day-writing-challenge) memposting 100 tulisan setiap hari berturut-turut.
 
-![100 day writing challenge](./challenge-writing/listed.png)
+![100 day writing challenge](./listed.png)
 
 Saya tertarik sekaligus ragu dengan tantangan ini, karena jika kamu memperhatikan situs ini jumlah tulisannya sangat sedikit, hanya puluhan.
 

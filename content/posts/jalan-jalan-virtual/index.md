@@ -39,7 +39,7 @@ Silahkan klik tombol dibawah ini
 
 Pada websitenya akan menampilkan jalanan dari arah pengemudi.
 
-![Drive and Listen](./jalan-jalan-virtual/homepage-drive-and-listen.png)
+![Drive and Listen](./homepage-drive-and-listen.png)
 
 Ada banyak kota yang kamu bisa coba, tinggal scroll saja lalu pilih kota mana yang ingin kamu kunjungi.
 

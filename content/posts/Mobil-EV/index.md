@@ -24,7 +24,7 @@ Coba kita ulas lebih dalam tentang fakta yang perlu kamu ketahui dari EV yang se
 
 Ya, **Dodge Charge Daytona** mobil yang kekar dan punya tenaga yang buas.
 
-![Dodge Charger EV](./dodge-charger.jpg 'Dodge Charger EV **|** *Sumber: gridoto.com*')
+![Dodge Charger EV](./dodge-charger.jpg 'Dodge Charger EV  *(sumber: gridoto.com)*')
 
 Mobil yang sering digunakan pada serial **Fast & Furious** ini menjadi terlihat 'cupu' karena saat ini ada versi EV nya yang pasti tidak ada lagi suara knalpot yang bisa mengintimidasi rivalnya.
 
@@ -51,7 +51,7 @@ Keduanya punya harga baterai yang berbeda karena kedua tipe tersebut perbedaan y
 
 Fajar Ahya (Assembly Processing Engineer Hyundai) mengungkapkan bahwa harga baterai Hyundai Ioniq 5 tipe standard berkisar Rp 300 jutaan, sedangkan long range-nya dibanderol Rp 400 jutaan.
 
-![Hyundai Ioniq 5](./ioniq-5.jpg 'Hyundai Ioniq 5 **|** *Sumber: carmudi.co.id*')
+![Hyundai Ioniq 5](./ioniq-5.jpg 'Hyundai Ioniq 5 *(sumber: carmudi.co.id)*')
 
 Luar biasa!
 Awal mobil listrik masuk ke indonesia pada tahun 2022, berarti belum genap 2 tahun mobil listrik masuk ke indonesia
@@ -118,7 +118,7 @@ Karena untuk berjaga-jaga jika baterai perlu diganti jika sudah satu windu karen
 
 Kalau saya melihat orang yang membeli mobil listrik ini pasti memiliki mobil lain bukan hanya mobil listrik saja.
 
-![SPKLU](./spklu.jpg '*Sumber: koran.tempo.co*')
+![SPKLU](./spklu.jpg '*(sumber: koran.tempo.co)*')
 
 Karena memang mobil listrik belum bisa menjadi mobil utama, karena kita tahu Stasiun Pengisian Kendaraan Listrik Umum (SPKLU) belum menyebar secara merata di indonesia. Hanya di titik tertentu saja.
 

@@ -65,7 +65,7 @@ Sangat terbantu karena tema blocksy ternyata tema yang diinginkan banyak user wo
 
 Lebih murah, karena dibagi 20 orang, yang harga temanya sendiri kisaran 299$-Oktober 2021- saat itu nilai mata uang dollar terhadap rupiah sekitar Rp 14.199. Berarti harganya kisaran 4,2 jutaan rupiah.
 
-![Blocksy Premium Agency](./kisah-awal/blocksy-agency.png '*Harga Blocksy Premium | Source: [Blocksy Pricing](https://creativethemes.com/blocksy/pricing/?plan=lifetime)*')
+![Blocksy Premium Agency](./blocksy-agency.png '*Harga Blocksy Premium | Source: [Blocksy Pricing](https://creativethemes.com/blocksy/pricing/?plan=lifetime)*')
 
 Saat ini harganya 499$. Luar biasa, harganya melonjak naik 200$ dalam kurung waktu kurang dari 3 tahun.
 
@@ -124,7 +124,7 @@ Fakta Singkat menurut [wpzoom](https://www.wpzoom.com/blog/wordpress-statistics/
 - Sekitar 474 juta situs web dibangun di WordPress.
 
 Nah karena wordpress banyak digunakan, sehingga memang menjadi incaran utama hacker. Hacker punya banyak motivasi untuk membajak website.
-![Motivasi untuk membajak website](./kisah-awal/motivasi-hacker.png '*Source: Hacker One Report 2021*')
+![Motivasi untuk membajak website](./motivasi-hacker.png '*Source: Hacker One Report 2021*')
 
 Celah keamanan yang paling dominan itu dari plugin, entah plugin jarang dilakukan pembaharuan ataupun pemilik website menggunakan plugin yang mengandung malware.
 ![Persentase Penyebab Hack](./persentase-penyebab-hack.png '*Source: Get Astra*')

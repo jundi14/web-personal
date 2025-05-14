@@ -36,7 +36,7 @@ Walaupun kadang suka was was juga, namanya celah keamanan pasti ada aja. Semoga 
 
 Balik lagi deh ke judul, saya sering menggunakan dana ini buat beli pulsa, kuota internet dan beli token listrik kadang juga buat transfer saat membeli barang di tokopedia.
 
-![Fitur E-Wallet Dana](./ewallet-andalan/fitur-pembayaran.jpg 'Layanan di Aplikasi Dana')
+![Fitur E-Wallet Dana](./fitur-pembayaran.jpg 'Layanan di Aplikasi Dana')
 
 Kalau kita lihat gambar diatas ada banyak sekali layanan yang tersedia, jadi 1 aplikasi bisa multifungsi.
 

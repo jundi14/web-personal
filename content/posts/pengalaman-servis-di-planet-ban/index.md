@@ -35,7 +35,7 @@ Sebenarnya itu pertanyaan yang ngga perlu ditanyakan juga, karena memang disitu 
 
 Sambil menunggu, saya berkeliling area planet ban dan menemukan tulisan seperti ini "servis cvt + throttle body = 39.000", dan banyak tulisan lain berisi paketan servis beserta harganya.
 
-![Servis murah hanya 39 ribu](./planetban2.jpg '*Source: Redaksi kbeonline.id*')
+![Servis murah hanya 39 ribu](./planetban2.jpg '*(source: redaksi kbeonline.id)*')
 
 Itu harga yang cukup murah.
 
@@ -53,7 +53,7 @@ Sepertinya ekspektasi saya melebihi tarifnya 😂 pantas saja value yang di dapa
 
 Sebab tingginya ekpektasi saya adalah adanya tulisan ditambah gambar pendukung tentang perbandingan ketika service throttle body di planet ban dengan service di tempat lain.
 
-![Service motor rasa mesin baru](./planetban.jpeg '*Source: KOMPAS.com/Fathan*')
+![Service motor rasa mesin baru](./planetban.jpeg '*(source: kompas.com/fathan)*')
 
 Kondisi throttle body ketika selesai servis di planet ban bersih kinclong seperti motor baru, dibandingkan dengan kondisi throttle body di tempat servis lain yang masih terlihat kotor.
 
