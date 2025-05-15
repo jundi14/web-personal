@@ -1,11 +1,11 @@
 ---
 title: 'Posts'
-description: 'Berisi artikel dari seluruh kategori'
+description: 'Kumpulan tulisan dari yang receh hingga renungan'
 cascade:
   showDate: true
   showAuthor: true
 ---
 
 {{<lead>}}
-Berisi artikel dari seluruh kategori.
+Kumpulan tulisan dari yang receh hingga renungan
 {{</lead>}}
