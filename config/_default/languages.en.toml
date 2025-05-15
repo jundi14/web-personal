@@ -16,7 +16,7 @@ title = "Jundi Mubarok"
 
 [params.author]
    name = "Jundi Mubarok"
-   # email = "jundimubarok74@gmail.com"
+   #email = "jundimubarok74@gmail.com"
    image = "/img/profile-photo.jpg"
    imageQuality = 60
    headline = "*Ngobrol Lewat Tulisan Ringan*"

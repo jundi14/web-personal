@@ -59,6 +59,7 @@ Salam hangat,\
 **Jundi**
 
 ---
+
 [![CO₂ Shield](https://img.shields.io/badge/CO₂-A_0.10g-20AE69)](https://overbrowsing.com/projects/co2-shield)
 
 ![](./Written-By-Human-Not-By-AI-Badge-white.svg)
