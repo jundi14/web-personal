@@ -71,7 +71,7 @@ smartTOCHideUnfocusedChildren = false
   showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = true
-  sharingLinks = ["twitter","bluesky", "telegram", "facebook", "whatsapp" ]
+  sharingLinks = ["bluesky", "telegram", "facebook", "whatsapp" ]
   showZenMode = false
 
 [list]
@@ -116,11 +116,11 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
 
 [umamiAnalytics]
-  # websiteid = "7d6d8e9c-a8da-49dd-a3bc-6bb2e656ea64"
-  # domain = "jundi.web.id"
+   websiteid = "e8882eba-fabe-4ac5-aeb9-aa30d4ab63c2"
+   domain = "jundi.web.id"
   # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = false
+   scriptName = "TRACKER_SCRIPT_NAME"
+   enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
