@@ -22,13 +22,14 @@
 
 [[main]]
   name = "Support"
+  #pre = "mug-hot"
   url = "https://saweria.co/jundimubarok"
   weight = 30
 
 [[main]]
-  name = "Microblog"
-  pre = "edit"
-  url = "https://streams.place/jundi-mubarok"
+  name = "microblog"
+  pre = "discourse"
+  url = "https://streams.place/jundi"
   weight = 45
 
 [[main]]
