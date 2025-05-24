@@ -24,6 +24,13 @@
   name = "Support"
   url = "https://saweria.co/jundimubarok"
   weight = 30
+
+[[main]]
+  name = "Microblog"
+  pre = "edit"
+  url = "https://streams.place/jundi-mubarok"
+  weight = 45
+
 [[main]]
   name = "Categories"
   pageRef = "categories"
