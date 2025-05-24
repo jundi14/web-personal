@@ -119,7 +119,7 @@ smartTOCHideUnfocusedChildren = false
    websiteid = "e8882eba-fabe-4ac5-aeb9-aa30d4ab63c2"
    domain = "jundi.web.id"
   # dataDomains = "yoursite.com,yoursite2.com"
-   scriptName = "TRACKER_SCRIPT_NAME"
+  # scriptName = "TRACKER_SCRIPT_NAME"
    enableTrackEvent = true
 
 [selineAnalytics]
