@@ -3,10 +3,10 @@ title: Distraksi Yang Luar Biasa Dari Layar Gadget
 slug: distraksi-layar-gadget
 description: 
 categories: Coretan
-date: 2025-05-22
+date: 2025-05-23
 tags:
   -
-draft: true
+draft: false
 ---
 
 Dengan kondisi ruangan yang gelap dan semburat cahaya dari lampu LED teras rumah, dan kubuat ruangan senyaman mungkin untuk anak tidur.
@@ -64,8 +64,10 @@ Saya suka dengan otomotif dan sesekali ke arah bisnis digital, tapi tiba-tiba mu
 
 Sama sekali saya tidak paham permainan catur itu seperti apa, tapi saya disuguhi youtube short tentang konten catur ini berulang kali yang pada akhirnya saya jadi penasaran dan sering berhenti untuk melihat sampai detik terakhir.
 
-Apalagi konten yang disajikan juga tidak bisa kita atur, bahkan youtube kids pun demikian yang katanya ada konten terselubung yang mengajarkan suka sesama jenis.
+Apalagi konten yang disajikan juga tidak bisa kita atur, bahkan youtube kids pun demikian yang katanya ada konten terselubung yang mengajarkan untuk suka sesama jenis.
 
-Tentu sebagai orang tua harus lebih aware masalah ini, tetap dipantau jika memang terpaksa si anak sudah mulai memegang gadget mereka sendiri.
+Tentu sebagai orang tua harus lebih aware masalah ini, tetap dipantau jika memang terpaksa anak sudah diberi smartphone mereka sendiri.
 
-Ini hanya sebatas pendapat pribadi saja, jika mau diskusi boleh tulis di kolom komentar.
+Tulisan ini sebagai opini pribadi saja dan tetap menghormati opini yang berbeda dengan tanpa merendahkan.
+
+Jika mau diskusi boleh tulis di kolom komentar.
