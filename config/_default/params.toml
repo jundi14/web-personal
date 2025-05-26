@@ -115,13 +115,6 @@ smartTOCHideUnfocusedChildren = false
   cardView = true
   cardViewScreenWidth = false
 
-[umamiAnalytics]
-   websiteid = "e8882eba-fabe-4ac5-aeb9-aa30d4ab63c2"
-   domain = "jundi.web.id"
-  # dataDomains = "yoursite.com,yoursite2.com"
-   scriptName = "TRACKER_SCRIPT_NAME"
-   enableTrackEvent = true
-
 [selineAnalytics]
-  # token = "XXXXXX"
-  # enableTrackEvent = true
+   token = "21f6cffd288a94f"
+   enableTrackEvent = false
