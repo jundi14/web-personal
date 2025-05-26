@@ -117,4 +117,4 @@ smartTOCHideUnfocusedChildren = false
 
 [selineAnalytics]
    token = "21f6cffd288a94f"
-   enableTrackEvent = false
+   enableTrackEvent = true
