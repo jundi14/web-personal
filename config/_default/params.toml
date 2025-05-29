@@ -114,7 +114,3 @@ smartTOCHideUnfocusedChildren = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
-
-[selineAnalytics]
-   token = "21f6cffd288a94f"
-   enableTrackEvent = false
