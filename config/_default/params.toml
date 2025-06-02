@@ -116,5 +116,5 @@ smartTOCHideUnfocusedChildren = false
   cardViewScreenWidth = false
 
 [selineAnalytics]
-  token = "21f6cffd288a94f"
+  token = "972c1f4f0468276"
   enableTrackEvent = true
