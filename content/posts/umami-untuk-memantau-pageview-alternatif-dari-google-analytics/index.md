@@ -29,10 +29,6 @@ Umami fokus pada kesederhanaan, tampilan yang lebih _user-friendly_ dan ringan s
 
 ![ Contoh Tampilan Analitik Umami](./analitik-umami.png 'Tampilan Analitik Umami')
 
-{{< button href="https://umami-beta-tan.vercel.app/share/uTzM6Lm2tsztJmOK/jundimubarok.com" target="_blank" >}}Interface Umami{{< /button >}}
-
-Pada screenshots di atas tampilan utama dari umami saat menampilkan analitiknya,_user-friendly_ dan sederhana tapi tetap menampilkan tampilan yang informatif.
-
 Nah bagaimana cara menggunakan umami ?
 
 Ada beberapa langkah yang harus diikuti untuk membuat akun umami, sedikit merepotkan untuk user google analitik yang sudah terintegrasi dengan layanan google lainnya.

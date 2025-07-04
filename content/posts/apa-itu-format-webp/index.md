@@ -13,7 +13,7 @@ draft: false
 
 ## Prolog Sebelum WebP
 
-![Format Gambar Website](./tipe-gambar-website.png '*Source: [yudana](https://www.yudana.id/perbedaan-format-gambar-jpg-png-gif-dan-svg-untuk-website/)*')
+![Format Gambar Website](./tipe-gambar-website.png "*Source: yudana.id*")
 
 Akses cepat ke sebuah website begitu penting, feedback dari website harus singkat demi memenuhi kebutuhan pekerjaan atau sekedar mencari informasi.
 
