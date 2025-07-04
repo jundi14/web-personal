@@ -45,13 +45,11 @@ Yang saya perhatikan anaknya ini kurang fokus melihat lingkungan sekitar; kurang
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
      crossorigin="anonymous"></script>
-<!-- iklan tengah artikel -->
 <ins class="adsbygoogle"
      style="display:block"
+     data-ad-format="autorelaxed"
      data-ad-client="ca-pub-1028861450285140"
-     data-ad-slot="6049657661"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-ad-slot="9203575122"></ins>
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
