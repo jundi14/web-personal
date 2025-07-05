@@ -43,6 +43,19 @@ Anak dari teman saya selalu menonton video dari smartphone disaat orangtuanya se
 
 Yang saya perhatikan anaknya ini kurang fokus melihat lingkungan sekitar; kurang peka terhadap kejadian di sekitar, sehingga cenderung lebih ceroboh dan sering terlihat tersandung dan terjatuh.
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1028861450285140"
+     crossorigin="anonymous"></script>
+<!-- Iklan tengah -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1028861450285140"
+     data-ad-slot="3112260755"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Seperti youtube shorts, instagram reels, tiktok media social tersebut memiliki durasi tayang yang singkat dan tidak jarang kita suka lupa sudah berapa lama membuka aplikasi youtube short, sudah berapa jam kita scroll reels instagram.
 
 Ya, bahkan seusia kita pun bisa lupa, apalagi seorang anak yang tidak bisa mengontrol diri.
