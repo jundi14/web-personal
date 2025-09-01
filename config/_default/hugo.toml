@@ -28,7 +28,7 @@ paginate = 12
   series = "series"
 
 [sitemap]
-  changefreq = 'weekly'
+  changefreq = 'never'
   filename = 'sitemap.xml'
   priority = 0.5
 
