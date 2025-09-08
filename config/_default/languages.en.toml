@@ -10,8 +10,8 @@ title = "Jundi Mubarok"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/tema-gelap-1.png"
-  # secondaryLogo = "img/tema-terang-1.png"
-  description = "Ngobrol lewat tulisan ringan, kadang tetap bikin mikir—isi cerita sehari-hari, hal receh, dan renungan santai yang relate banget."
+  secondaryLogo = "img/tema-terang-1.png"
+  description = "Halo, saya Jundi. Blog ini tempat nongkrongnya cerita-cerita ringan, catatan random, dan hal-hal yang kadang penting… kadang juga nggak 😁"
   copyright = "⚡by [Blowfish](https://blowfish.page). My opinions are my own"
 
 [params.author]

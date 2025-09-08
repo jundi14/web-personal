@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogging on Jundi Mubarok</title>
+    <link>http://localhost:1313/categories/blogging/</link>
+    <description>Recent content in Blogging on Jundi Mubarok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>⚡by [Blowfish](https://blowfish.page). My opinions are my own</copyright>
+    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bearblog, Platform Blogging Yang Sedang Nge-trend</title>
+      <link>http://localhost:1313/posts/platform-blogging-bearblog/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/platform-blogging-bearblog/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/platform-blogging-bearblog/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Apa Itu WebP? Format Gambar Yang Efisien Untuk Website</title>
+      <link>http://localhost:1313/posts/apa-itu-webp/</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/apa-itu-webp/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/apa-itu-webp/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Umami, Alternatif dari Google Analitik yang Lebih Cepat dan Sederhana</title>
+      <link>http://localhost:1313/posts/umami-alternatif-dari-google-analitik/</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/umami-alternatif-dari-google-analitik/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/umami-alternatif-dari-google-analitik/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Pengganti Linktree Dengan Fitur Yang Lebih Menarik. Carrd.co!</title>
+      <link>http://localhost:1313/posts/menggunakan-carrd/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/menggunakan-carrd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/menggunakan-carrd/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Kelebihan dan Kekurangan Menggunakan Website Statis</title>
+      <link>http://localhost:1313/posts/kelebihan-dan-kekurangan-menggunakan-website-statis/</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kelebihan-dan-kekurangan-menggunakan-website-statis/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kelebihan-dan-kekurangan-menggunakan-website-statis/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Kesalahan Yang Saya Lakukan Saat Membuat Blog</title>
+      <link>http://localhost:1313/posts/kesalahan-saat-membuat-blog/</link>
+      <pubDate>Sat, 04 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/kesalahan-saat-membuat-blog/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kesalahan-saat-membuat-blog/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Secure Header di Netlify</title>
+      <link>http://localhost:1313/posts/secure-header-di-netlify/</link>
+      <pubDate>Sun, 18 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/secure-header-di-netlify/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/secure-header-di-netlify/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Berapa Banyak Jumlah Iklan Yang Ideal Pada Website?</title>
+      <link>http://localhost:1313/posts/berapa-banyak-jumlah-iklan-yang-ideal/</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/berapa-banyak-jumlah-iklan-yang-ideal/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/berapa-banyak-jumlah-iklan-yang-ideal/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

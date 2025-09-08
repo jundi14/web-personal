@@ -352,9 +352,4 @@
     <changefreq>never</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>http://localhost:1313/uses/</loc>
-    <changefreq>never</changefreq>
-    <priority>0.5</priority>
-  </url>
 </urlset>

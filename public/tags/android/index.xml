@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Jundi Mubarok</title>
+    <link>http://localhost:1313/tags/android/</link>
+    <description>Recent content in Android on Jundi Mubarok</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>⚡by [Blowfish](https://blowfish.page). My opinions are my own</copyright>
+    <lastBuildDate>Thu, 25 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sponge, Aplikasi Buat Storage Smartphone Kamu Yang Sudah Membengkak</title>
+      <link>http://localhost:1313/posts/aplikasi-pembersih-memori-android/</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/aplikasi-pembersih-memori-android/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/aplikasi-pembersih-memori-android/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

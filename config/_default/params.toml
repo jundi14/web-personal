@@ -21,6 +21,7 @@ backgroundImageWidth = 1000
 highlightCurrentMenuArea = true
 smartTOC = true
 smartTOCHideUnfocusedChildren = false
+defaultSocialImage = "/img/opengraph.png" # used as default for social sharing images
 
 [header]
   layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
@@ -29,7 +30,7 @@ smartTOCHideUnfocusedChildren = false
   showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
