@@ -64,6 +64,6 @@ Salam hangat,\
 
 ![](./Written-By-Human-Not-By-AI-Badge-white.svg)
 
-<center><a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a></center>
+<left><a href="https://512kb.club" target="_blank"><img src="https://512kb.club/assets/images/blue-team.svg" alt="a proud member of the blue team of 512KB club" /></a></left>
 
-<center><p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p></center>
+<left><p>👻 Proud Member of <a href="https://darktheme.club/">darktheme.club</a> 👻</p></left>
