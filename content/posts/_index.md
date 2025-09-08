@@ -1,11 +1,11 @@
 ---
 title: 'Posts'
-description: 'Kumpulan tulisan dari yang receh hingga renungan'
+description: 'Kumpulan cerita dan catatan random'
 cascade:
   showDate: true
   showAuthor: true
 ---
 
 {{<lead>}}
-Kumpulan tulisan dari yang receh hingga renungan
+Kumpulan cerita dan catatan random
 {{</lead>}}
