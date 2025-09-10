@@ -17,12 +17,13 @@ title = "Blog | Jundi Mubarok"
 [params.author]
    name = "Jundi Mubarok"
    #email = "jundimubarok74@gmail.com"
-   image = "/img/profile-photo.jpg"
+   image = "/img/circle-avatars-2.png"
    imageQuality = 60
    headline = "*Ngobrol Lewat Tulisan Ringan*"
    bio = "Ngobrol Lewat Tulisan Ringan"
    links = [
       { bluesky = "https://bsky.app/profile/jundi.web.id" },
+      { threads = "https://www.threads.net/@jundi.mubarok" },
       { telegram = "https://t.me/jundipost" }
    ]
 
