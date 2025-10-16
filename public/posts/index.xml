@@ -280,6 +280,16 @@
     </item>
     
     <item>
+      <title>Prediksi Tahun 2050, Inilah Kondisi Kota Dari Seluruh Dunia di Masa Depan.</title>
+      <link>http://localhost:1313/posts/prediksi-kota-masa-depan/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/prediksi-kota-masa-depan/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/prediksi-kota-masa-depan/featured.jpg" />
+    </item>
+    
+    <item>
       <title>Chat GPT Besutan Open AI Yang Membuat Kita Malas Berpikir</title>
       <link>http://localhost:1313/posts/apa-itu-chat-gpt/</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
@@ -537,16 +547,6 @@
       <guid>http://localhost:1313/posts/kelebihan-telegram-dibandingkan-whatsapp/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kelebihan-telegram-dibandingkan-whatsapp/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>Prediksi Tahun 2050, Inilah Kondisi Kota Dari Seluruh Dunia di Masa Depan.</title>
-      <link>http://localhost:1313/posts/prediksi-kota-masa-depan/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/prediksi-kota-masa-depan/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/prediksi-kota-masa-depan/featured.jpg" />
     </item>
     
   </channel>
