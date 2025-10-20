@@ -1,6 +1,6 @@
 ---
 title: Ke Bekasi, Kali Ini Menggunakan Bus Primajasa
-slug: Primajasa bekasi
+slug: naik Primajasa bekasi
 date: 2025-10-18
 description: Temu kangen orang tua di momen liburan yang sempit
 categories: Coretan
@@ -10,7 +10,7 @@ showTableOfContents: true
 draft: false
 ---
 
-Pekan kemarin di sekolah tempat saya mengajar ada "wabah" demam masal yang menjadi penyebab setengah lebih dari siswa tidak bisa bersekolah sehingga mau diadakan KBM pun kurang kondusif.
+Pekan kemarin di sekolah tempat saya mengajar ada "wabah" demam masal yang menjadi penyebab lebih dari setengah santri tidak bisa bersekolah sehingga mau diadakan KBM pun kurang kondusif.
 
 Akhirnya mudir memutuskan untuk diliburkan saja selama sepekan dengan harapan setelah masa demam ini berakhir para santri bisa kembali lagi belajar dengan semangat.
 
@@ -28,8 +28,8 @@ Coba cek harga kereta pada jam jam siang bolong, harganya diatas 150k semua!
 
 Daripada boncos, kami dengan ~terpaksa~ legowo memilih bus saja yang relatif murah dan mudah didapat dibandingkan harus nge-grab dulu ke stasiun yang butuh ongkos tambahan pula.
 
-Ya, ternyata kami telat menaiki bus primajasa yang seharusnya lewat pada pukul sekitar 12.30 an, sehingga kami mendapatkan bus pada jadwal berikutnya, kami menunggu bus hampir 45 menit lamanya, kami mendapat bus sekitar pukul 13:40.
+Ya, ternyata kami telat menaiki bus primajasa yang menurut perkiraan saya lewat pada pukul sekitar 12.30 an, sehingga kami mendapatkan bus pada jadwal berikutnya, kami keluar rumah sekitar pukul 13.00, kami menunggu bus hampir 45 menit lamanya, kami mendapat bus sekitar pukul 13:40.
 
-Rencana awal maghrib sudah sampai rumah mertua, walhasil sholat maghrib kami jamak dengan isya. 
+Rencananya maghrib sudah sampai bekasi, tapi karena saat berangkat tidak sesuai rencana, walhasil kami datang setelah isya dan akhirnya sholat maghrib kami jamak dengan isya. 
 
 Walaupun agak malam tapi yang paling penting adalah kami selamat sampai tujuan 😃
