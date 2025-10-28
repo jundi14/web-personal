@@ -2,7 +2,7 @@
 title: Mulai Dari Nol Yaa
 slug: Mulai Dari Nol Yaa
 date: 2025-10-27
-description: 
+description: Blog menjadi salah satu cara untuk mencurahkan pikiran paling bebas yang pernah ada. Dari sini ide dan gagasan mulai berkembang
 categories: Coretan
 tags:
     - 100daystooffload
