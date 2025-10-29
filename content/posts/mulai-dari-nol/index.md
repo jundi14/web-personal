@@ -5,7 +5,6 @@ date: 2025-10-27
 description: Blog menjadi salah satu cara untuk mencurahkan pikiran paling bebas yang pernah ada. Dari sini ide dan gagasan mulai berkembang
 categories: Coretan
 tags:
-    - 100daystooffload
 showComments: true
 showTableOfContents: false
 draft: false
