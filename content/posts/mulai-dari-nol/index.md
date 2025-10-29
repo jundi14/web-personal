@@ -37,7 +37,7 @@ Bermula dari orangtuanya yang selalu mendorong sang anak untuk menulis 30 menit 
 
 Coba deh kamu gugling sendiri siapa anak itu, cukup terkenal kok. Deliang namanya.
 
-Akhir-akhir ini saya sering membuka website [Blogroll](blogroll.org) disana ada sekitar 1028 blog dan situs independen.
+Akhir-akhir ini saya sering membuka website [Blogroll](https://blogroll.org) disana ada sekitar 1028 blog dan situs independen.
 
 Disana saya mendapatkan banyak motivasi untuk menulis kembali, entah itu menulis secara acak ataupun yang membutuhkan riset, yang penting nulis dulu aja.
 
@@ -45,7 +45,7 @@ Luapkan apa yang ada dipikiran, apalagi kamu sering kan nemu ide yang tiba-tiba?
 
 Bahkan mungkin imajinasi liar yang mungkin membantu umat manusia di masa depan, hehe.
 
-Ya, ini postingan pertama saya menuju ke...[100daystooffload.com](100daystooffload.com)
+Ya, ini postingan pertama saya menuju ke...[100daystooffload.com](https://100daystooffload.com)
 
 Selamat berkarya. Selamat menulis. 😁
 
